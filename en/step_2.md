@@ -1,13 +1,12 @@
-## What you will need
+--- challenge ---
+## Challenge: Changing the drum loop
+Can you use different samples in your drum loop?
 
-### Hardware
+To see what samples are available, you can go to <a href="http://jumpto.cc/sonic-pi-samples">jumpto.cc/sonic-pi-samples</a>, or just type `sample :drum` and choose from the list that appears.
 
-+ List hardware here, or delete section.
+![screenshot](images/dj-drum-challenge.png)
 
-### Software
 
-+ List software here, or delete section.
 
-### Additional Resources
 
-+ List additional resources, or delete section.
+--- /challenge ---
