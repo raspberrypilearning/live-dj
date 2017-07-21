@@ -1,20 +1,51 @@
---- challenge ---
-## Challenge: Changing the sample
-Can you change the sample used?
-
-To see what loop samples are available, you can go to <a href="http://jumpto.cc/sonic-pi-samples">jumpto.cc/sonic-pi-samples</a>, or just type `sample :loop` and choose from the list that appears.
-
-![screenshot](images/dj-sample-choose.png)
-
-You might also need to change the numbers in your code for different samples. You can use the following code to find out the sample of a duration:
-
-`puts sample_duration(:sample_name)`
-
-To loop a sample without a gap, __make sure that both numbers match__.
-
-![screenshot](images/dj-sample-numbers.png)
+## Adding a sample
+Let's add a looping sample over the basic drum loop.
 
 
 
++ To play a sample in time with your drums, create another `live_loop` called `:sample`.
 
---- /challenge ---
+    ![screenshot](images/dj-sample-loop.png)
+
++ Add the sample `:loop_compus`, making it play every 8 beats.
+
+    ![screenshot](images/dj-sample-bug.png)
+
++ If you test your sample, you'll notice that it __doesn't match the drums__ at all!
+
+    <div id="audio-preview" class="pdf-hidden">
+    <audio controls preload>
+      <source src="sounds/beat-bug.mp3" type="audio/mpeg">
+    Your browser does not support the <code>audio</code> element.
+    </audio>
+    </div>
+
++ The first thing you'll need to do is `sync` your sample with the drum beat.
+
+    ![screenshot](images/dj-sample-sync.png)
+
++ This still doesn't sound right! Add code to print the duration of the sample:
+
+    ![screenshot](images/dj-sample-duration.png)
+
++ If you scroll back through the __log__, you'll see that although the sample is repeating every 8 beats, __the sample doesn't quite last 8 beats__.
+
+    ![screenshot](images/dj-sample-log.png)
+
+    (You can now remove the code to print the sample duration.)
+
++ To match your sample with the drums you'll need to __stretch__ the sample so that it lasts exactly 8 beats as well.
+
+    ![screenshot](images/dj-sample-stretch.png)
+
++ Test your code by pressing 'Run' again -- __you don't need to stop and restart the music__! You should now hear that your sample plays in time with your drum beat.
+
+    <div id="audio-preview" class="pdf-hidden">
+    <audio controls preload>
+      <source src="sounds/beat-fixed.mp3" type="audio/mpeg">
+    Your browser does not support the <code>audio</code> element.
+    </audio>
+    </div>
+
+
+

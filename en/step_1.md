@@ -1,34 +1,17 @@
-## Drums
-Let's start by creating a simple drum loop.
+## Introduction
 
+In this project you will learn how to code a live music performance, that you can add to and edit without having to stop the music!
 
+<div id="audio-preview" class="pdf-hidden">
 
-+ Start by creating a `live_loop` called `:drums`.
+Press the play button below to hear how your music will sound:
 
-    ![screenshot](images/dj-drums-loop.png)
+<audio controls preload>
+  <source src="volunteer-resources/live-dj.mp3" type="audio/mpeg">
+Your browser does not support the <code>audio</code> element.
+</audio>
 
-    Any code added to a `live_loop` will repeat until 'Stop' is pressed.
-
-+ Add an alternating drum and snare, that play for one beat each.
-
-    ![screenshot](images/dj-drums.png)
-
-+ Press 'Run' to test your drum loop.
-
-    <div id="audio-preview" class="pdf-hidden">
-    <audio controls preload>
-      <source src="sounds/drums.mp3" type="audio/mpeg">
-    Your browser does not support the <code>audio</code> element.
-    </audio>
-    </div>
-
-+ If your drum loop is too fast/slow, you can change the beats per minute (bpm).
-
-    ![screenshot](images/dj-bpm.png)
-
-    You'll need to stop and start your `live_loop` to speed it up or slow it down.
-
-
+</div>
 
 ### Additional information for club leaders
 

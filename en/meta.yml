@@ -1,8 +1,7 @@
----
 hero_image: images/banner.png
 theme: red
 duration: 1
-listed: false
+listed: true
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
@@ -13,6 +12,7 @@ interests: music/sound
 technologies: ''
 site_areas: codeclub, sonic-pi
 steps:
+- title: Introduction
 - title: Drums
 - title: 'Challenge: Changing the drum loop'
 - title: Adding a sample
@@ -22,4 +22,3 @@ steps:
 - title: Adding sound effects
 - title: 'Challenge: Changing the effects'
 - title: 'Challenge: Show off your DJ skills!'
-

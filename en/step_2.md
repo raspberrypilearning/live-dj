@@ -1,12 +1,27 @@
---- challenge ---
-## Challenge: Changing the drum loop
-Can you use different samples in your drum loop?
+## Drums
+Let's start by creating a simple drum loop.
 
-To see what samples are available, you can go to <a href="http://jumpto.cc/sonic-pi-samples">jumpto.cc/sonic-pi-samples</a>, or just type `sample :drum` and choose from the list that appears.
++ Start by creating a `live_loop` called `:drums`.
 
-![screenshot](images/dj-drum-challenge.png)
+    ![screenshot](images/dj-drums-loop.png)
 
+    Any code added to a `live_loop` will repeat until 'Stop' is pressed.
 
++ Add an alternating drum and snare, that play for one beat each.
 
+    ![screenshot](images/dj-drums.png)
 
---- /challenge ---
++ Press 'Run' to test your drum loop.
+
+    <div id="audio-preview" class="pdf-hidden">
+    <audio controls preload>
+      <source src="sounds/drums.mp3" type="audio/mpeg">
+    Your browser does not support the <code>audio</code> element.
+    </audio>
+    </div>
+
++ If your drum loop is too fast/slow, you can change the beats per minute (bpm).
+
+    ![screenshot](images/dj-bpm.png)
+
+    You'll need to stop and start your `live_loop` to speed it up or slow it down.
