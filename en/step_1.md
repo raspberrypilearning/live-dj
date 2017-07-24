@@ -7,7 +7,7 @@ In this project you will learn how to code a live music performance, that you ca
 Press the play button below to hear how your music will sound:
 
 <audio controls preload>
-  <source src="volunteer-resources/live-dj.mp3" type="audio/mpeg">
+  <source src="resources/live-dj.mp3" type="audio/mpeg">
 Your browser does not support the <code>audio</code> element.
 </audio>
 

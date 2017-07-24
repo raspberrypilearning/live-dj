@@ -15,7 +15,7 @@ Now let's add some bass notes to your music.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/bass-single.mp3" type="audio/mpeg">
+      <source src="resources/bass-single.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
@@ -24,7 +24,7 @@ Now let's add some bass notes to your music.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/chord.mp3" type="audio/mpeg">
+      <source src="resources/chord.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
@@ -54,7 +54,7 @@ Now let's add some bass notes to your music.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/bass.mp3" type="audio/mpeg">
+      <source src="resources/bass.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>

@@ -15,7 +15,7 @@ Let's start by creating a simple drum loop.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/drums.mp3" type="audio/mpeg">
+      <source src="resources/drums.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>

@@ -15,7 +15,7 @@ Let's add a looping sample over the basic drum loop.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/beat-bug.mp3" type="audio/mpeg">
+      <source src="resources/beat-bug.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
@@ -42,7 +42,7 @@ Let's add a looping sample over the basic drum loop.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/beat-fixed.mp3" type="audio/mpeg">
+      <source src="resources/beat-fixed.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>

@@ -15,7 +15,7 @@ Finally, let's add some sound effects to your music.
 
     <div id="audio-preview" class="pdf-hidden">
     <audio controls preload>
-      <source src="sounds/noises.mp3" type="audio/mpeg">
+      <source src="resources/noises.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
