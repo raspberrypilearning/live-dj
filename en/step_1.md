@@ -32,7 +32,7 @@ Let's start by creating a simple drum loop.
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/live-dj/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/live-dj/print).
 
 
 --- collapse ---
