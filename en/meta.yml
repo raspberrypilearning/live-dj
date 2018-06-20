@@ -10,10 +10,10 @@ title: Live DJ
 description: Learn how to code a live music performance.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/live-dj
 interests: music
-technologies: ''
+technologies: 'sonic-pi'
 site_areas: projects
 hardware: ''
-software: ''
+software: 'sonic-pi'
 version: 3
 last_tested: 2017-01-01
 steps: 
