@@ -1,47 +1,47 @@
-## Adding bass
+## Bas toevoegen
 
-Now let's add some bass notes to your music.
+Laten we nu wat bas noten toevoegen aan je muziek.
 
-+ Start by creating a new `live_loop` called `:bass`. This new loop should also `sync` with the drums.
++ Begin met het maken van een nieuwe `live_loop` genaamd `:bas`. Deze nieuwe lus moet ook `sync` (overeenkomen) met de drums.
     
     ![screenshot](images/dj-bass-loop.png)
 
-+ Add code to play a single note every 8 beats. The note played uses the `:chipbass` synth.
++ Voeg code toe om elke acht beats een enkele noot te spelen. De gespeelde noot gebruikt de `:chipbass` synth.
     
     ![screenshot](images/dj-bass-note.png)
 
-+ Press 'Run' (no need to stop and restart your music). You should hear a note play every 8 beats.
++ Druk op 'Run' (je hoeft niet te stoppen en je muziek opnieuw te starten). Je zou elke 8 beats een noot moeten horen spelen.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
-+ A **chord** is a group of notes played together.
++ Een **chord** (akkoord) is een groep noten die samen worden gespeeld.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
-    Instead of playing the same note every 8 beats, you can `choose` a random note from a **chord**. In this case, the chord is **C Minor**.
+    In plaats van het spelen van dezelfde noot om de 8 beats, kun je ook `kiezen` voor een willekeurige noot van een **akkoord**. In dit geval is het akkoord **C Minor**.
     
     ![screenshot](images/dj-bass-random-note.png)
 
-+ 'Middle' C is actually `:c4`. To play lower bass notes, add a number lower than 4 after the chord name.
++ 'Midden' C is eigenlijk `: c4`. Om lagere bas noten te spelen, voeg je een nummer lager dan 4 toe na de akkoordnaam.
     
     ![screenshot](images/dj-bass-lower-note.png)
 
-+ Use a `sustain` to choose how many beats the note is held for.
++ Gebruik een `sustain` om te kiezen voor hoeveel tellen de noot wordt aangehouden.
     
     ![screenshot](images/dj-bass-longer-note.png)
 
-+ You can also use `amp` to choose the loudness of the bass. A number lower than 1 will be quieter, and higher than 1 will be louder.
++ Je kunt ook `amp` gebruiken om het volume van de bas te kiezen. Een getal lager dan 1 wordt rustiger en hoger dan 1 wordt luider.
     
     ![screenshot](images/dj-bass-amp.png)
 
-+ You can also add a (louder) sample to play at the start of each note.
++ Je kunt ook een (luider) sample toevoegen om aan het begin van elke noot te spelen.
     
     ![screenshot](images/dj-bass-sample.png)
 
-+ Press 'Run' to test your code. There's no need to stop and restart your music.
++ Druk op 'Run' om je code te testen. Het is niet nodig om je muziek te stoppen en opnieuw te starten.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
