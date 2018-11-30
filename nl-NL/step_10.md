@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Show off your DJ skills!
+## Uitdaging: Pronk met je DJ-vaardigheden!
 
-Use everything you've learnt to be a DJ for your friends! Remember that you can add to your music, as well as change notes and samples without having to stop the music.
+Gebruik alles wat je hebt geleerd om een ​​DJ te zijn voor je vrienden! Vergeet niet dat je muziek kunt toevoegen en noten en samples kunt wijzigen zonder de muziek te hoeven te stoppen.
 
 \--- /challenge \---
