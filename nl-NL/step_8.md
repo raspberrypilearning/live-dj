@@ -1,22 +1,22 @@
-## Adding sound effects
+## Geluidseffecten toevoegen
 
-Finally, let's add some sound effects to your music.
+Laten we tot slot enkele geluidseffecten aan je muziek toevoegen.
 
-+ Add another `live_loop` called `:effects`, which `sync`s with the drums.
++ Voeg nog een `live_loop` genaamd `: effects` toe, welke `sync` (synchroniseert) met de drums.
     
     ![screenshot](images/dj-effects-loop.png)
 
-+ Add this code to play the `:elec_blip2` sample every 2 beats.
++ Voeg deze code toe om de `:elec_blip2` sample om de 2 beats af te spelen.
     
     ![screenshot](images/dj-effects-sample.png)
 
-+ Click 'Run' to test your code (there's no need to stop and restart your music). You should hear a beep effect every 2 beats.
++ Klik op 'Run' om je code te testen (je hoeft niet te stoppen en je muziek opnieuw te starten). Je hoort elke 2 beats een piep effect.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/noises.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/noises.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
-+ Instead of playing the same effect each time, you could instead choose randomly from a list of 2 effects.
++ In plaats van elke keer hetzelfde effect te spelen, zou je in plaats daarvan willekeurig uit een lijst met 2 effecten kunnen kiezen.
     
     ![screenshot](images/dj-effects-sample-choose.png)
 
-+ Click 'Run' to test your random effects (there's no need to stop and restart your music).
++ Klik op 'Uitvoeren' om je willekeurige effecten te testen (het is niet nodig om je muziek te stoppen en opnieuw te starten).
