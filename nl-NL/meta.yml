@@ -7,7 +7,7 @@ ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Live DJ
-description: Learn how to code a live music performance.
+description: Leer hoe je een live muziekoptreden codeert.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/live-dj
 interests: music
 technologies: ''
@@ -15,25 +15,25 @@ site_areas: projects
 hardware: ''
 software: ''
 version: 3
-last_tested: 2017-01-01
+last_tested: 2017/01/01
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
     title: Drums
   - 
-    title: 'Challenge: Changing the drum loop'
+    title: 'Uitdaging: de drum wijzigen'
   - 
-    title: Adding a sample
+    title: Een sample (geluidsvoorbeeld) toevoegen
   - 
-    title: 'Challenge: Changing the sample'
+    title: 'Uitdaging: de sample veranderen'
   - 
-    title: Adding bass
+    title: Bas toevoegen
   - 
-    title: 'Challenge: Changing the bass'
+    title: 'Uitdaging: de bas veranderen'
   - 
-    title: Adding sound effects
+    title: Geluidseffecten toevoegen
   - 
-    title: 'Challenge: Changing the effects'
+    title: 'Uitdaging: de effecten veranderen'
   - 
-    title: 'Challenge: Show off your DJ skills!'
+    title: 'Uitdaging: Pronk met je DJ-vaardigheden!'
