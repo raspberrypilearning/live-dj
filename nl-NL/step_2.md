@@ -1,24 +1,24 @@
 ## Drums
 
-Let's start by creating a simple drum loop.
+Laten we beginnen met het creëren van een eenvoudige drum loop.
 
-+ Start by creating a `live_loop` called `:drums`.
++ Begin met het maken van een `live_loop` genaamd `: drums`.
     
     ![screenshot](images/dj-drums-loop.png)
     
-    Any code added to a `live_loop` will repeat until 'Stop' is pressed.
+    Elke code die is toegevoegd aan een `live_loop` zal worden herhaald totdat op 'Stop' wordt gedrukt.
 
-+ Add an alternating drum and snare, that play for one beat each.
++ Voeg een afwisselend drum en snare toe, die elk één beat spelen.
     
     ![screenshot](images/dj-drums.png)
 
-+ Press 'Run' to test your drum loop.
++ Druk op 'Run' om je drumloop te testen.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
-+ If your drum loop is too fast/slow, you can change the beats per minute (bpm).
++ Als je drum loop te snel/langzaam is, kun je de beats per minute (bpm) wijzigen.
     
     ![screenshot](images/dj-bpm.png)
     
-    You'll need to stop and start your `live_loop` to speed it up or slow it down.
+    Je moet je `live_loop` stoppen en starten om het te versnellen of te vertragen.
