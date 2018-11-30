@@ -1,18 +1,18 @@
 \--- challenge \---
 
-## Challenge: Changing the sample
+## Uitdaging: de sample veranderen
 
-Can you change the sample used?
+Kun je de gebruikte sample veranderen?
 
-To see what loop samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :loop` and choose from the list that appears.
+Om te zien welke loop-samples beschikbaar zijn, kun je naar [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), of typ je gewoon `sample: loop` en kies uit de lijst die verschijnt.
 
 ![screenshot](images/dj-sample-choose.png)
 
-You might also need to change the numbers in your code for different samples. You can use the following code to find out the sample of a duration:
+Mogelijk moet je ook de nummers in je code wijzigen voor verschillende samples. Je kunt de volgende code gebruiken om de duur van een sample te achterhalen:
 
-`puts sample_duration(:sample_name)`
+`puts sample_duration(:sample_naam)`
 
-To loop a sample without a gap, **make sure that both numbers match**.
+Om een sample te herhalen zonder pauze, **zorg je ervoor dat beide nummers overeenkomen**.
 
 ![screenshot](images/dj-sample-numbers.png)
 
