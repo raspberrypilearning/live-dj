@@ -1,40 +1,40 @@
-## Adding a sample
+## Een sample toevoegen
 
-Let's add a looping sample over the basic drum loop.
+Laten we een looping sample over de standaard drum loop toevoegen.
 
-+ To play a sample in time with your drums, create another `live_loop` called `:sample`.
++ Om een ​​sample op tijd met je drums te spelen, maak je nog een `live_loop` genaamd `:sample`.
     
     ![screenshot](images/dj-sample-loop.png)
 
-+ Add the sample `:loop_compus`, making it play every 8 beats.
++ Voeg de sample `:loop_compus` toe, waardoor het elke 8 beats wordt afgespeeld.
     
     ![screenshot](images/dj-sample-bug.png)
 
-+ If you test your sample, you'll notice that it **doesn't match the drums** at all!
++ Als je je sample test, merk je dat het helemaal **niet overeenkomt met de drums**!
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
-+ The first thing you'll need to do is `sync` your sample with the drum beat.
++ Het eerste wat je moet doen is je sample met de drum beat synchroniseren met behulp van `sync`.
     
     ![screenshot](images/dj-sample-sync.png)
 
-+ This still doesn't sound right! Add code to print the duration of the sample:
++ Dit klinkt nog steeds niet goed! Voeg code toe om de duur van de sample weer te geven:
     
     ![screenshot](images/dj-sample-duration.png)
 
-+ If you scroll back through the **log**, you'll see that although the sample is repeating every 8 beats, **the sample doesn't quite last 8 beats**.
++ Als je terug door het **log** (logboek) bladert, zie je dat hoewel het sample elke 8 beats herhaalt, **het sample niet helemaal 8 beats duurt**.
     
     ![screenshot](images/dj-sample-log.png)
     
-    (You can now remove the code to print the sample duration.)
+    (Je kunt nu de code verwijderen om de sample duur weer te geven.)
 
-+ To match your sample with the drums you'll need to **stretch** the sample so that it lasts exactly 8 beats as well.
++ Om je sample overeen te laten komen met de drums moet je de sample uitrekken **stretch** zodat het ook precies 8 beats duurt.
     
     ![screenshot](images/dj-sample-stretch.png)
 
-+ Test your code by pressing 'Run' again -- **you don't need to stop and restart the music**! You should now hear that your sample plays in time with your drum beat.
++ Test je code door nogmaals op 'Run' te drukken - **je hoeft niet te stoppen en de muziek opnieuw te starten**! Je zou nu moeten horen dat je sample gelijk speelt met je drum beat.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
