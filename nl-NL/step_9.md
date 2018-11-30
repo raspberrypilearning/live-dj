@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Changing the effects
+## Uitdaging: de effecten veranderen
 
-Can you add even more sound effects to your music?
+Kun je nog meer geluidseffecten toevoegen aan je muziek?
 
 ![screenshot](images/dj-effects-more.png)
 
