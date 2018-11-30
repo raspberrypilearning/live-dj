@@ -1,13 +1,13 @@
-\--- challenge \---
+\--- uitdaging \---
 
-## Challenge: Changing the bass
+## Uitdaging: de bas veranderen
 
-Can you change the bass notes in your music. You could change:
+Kun je de bas noten in je muziek veranderen. Je zou kunnen aanpassen:
 
-+ The name of the chord played, e.g. `f2` instead of `c2`
-+ The type of chord, e.g. `:major` instead of `:minor`
-+ The synth used
-+ The sample played
++ De naam van het gespeelde akkoord, bijv. `f2` plaats van `c2`
++ Het type akkoord, bijv. `:major` plaats van `:minor`
++ De gebruikte synth
++ Het sample gespeeld
 
 ![screenshot](images/dj-bass-challenge.png)
 
