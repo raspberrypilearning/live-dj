@@ -1,63 +1,63 @@
-## Introduction
+## Inleiding
 
-In this project you will learn how to code a live music performance, that you can add to and edit without having to stop the music!
+In dit project leer je hoe je live muziek kunt coderen, zodat je die kunt toevoegen en bewerken zonder de muziek te hoeven stoppen!
 
 <div id="audio-preview" class="pdf-hidden">
-  Press the play button below to hear how your music will sound: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Druk op de afspeelknop hieronder om te horen hoe jouw muziek zal klinken: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
 </div>
 
-### Additional information for club leaders
+### Aanvullende informatie voor clubleiders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/live-dj/print).
+Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/en/projects/live-dj/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## titel: Clubleider notities
 
-## Introduction:
+## Inleiding:
 
-In this project, children will learn how to use `live_loop` to make multiple pieces of music play in time with each other. They will also learn that loops can be edited and synchronised without having to stop and restart the music.
+In dit project, zullen kinderen leren een `live_loop` te gebruiken om meerdere muziekstukken tegelijkertijd te laten spelen. Ze zullen ook leren dat loops kunnen worden bewerkt en gesynchroniseerd zonder de muziek te hoeven stoppen en herstarten.
 
-## Resources
+## Bronnen
 
-The 'Project Materials' link for this project contains the following resources:
+De link 'Projectmaterialen' voor dit project bevat de volgende bronnen:
 
-##### Club leader Resources
+##### Clubleider bronnen
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Je kunt een voltooide versie van dit project vinden door te klikken op de link 'Projectmaterialen' voor dit project, dat het volgende bevat:
 
-* live-dj.txt
-* live-dj.mp3
+* live dj.txt
+* live dj.mp3
 
-## Learning Objectives
+## Leerdoelen
 
 * Sonic Pi 'Live Loop'
-* Playing random notes and samples
+* Willekeurige noten en samples spelen
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combineer programmeerconstructies om een ​​probleem op te lossen.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Uitdagingen
 
-* "Changing the drums" - editing the drum samples used;
-* "Changing the sample" - editing the sample used;
-* "Changing the bass" - editing the notes played;
-* "Changing the effects" - editing the effects used.
+* "De drums veranderen" - bewerken van de gebruikte drumsamples;
+* "Wijzigen van het sample" - bewerken van het gebruikte sample;
+* "De bas veranderen" - bewerken van de gespeelde noten;
+* "De effecten wijzigen" - bewerken van de gebruikte effecten.
 
-## Frequently Asked Questions
+## Veel Gestelde Vragen
 
-* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
+* Om voorbeelden te vinden die beschikbaar zijn in Sonic Pi, kunnen leerlingen naar [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Als alternatief kunnen ze gewoon `sample [space]` typen en kiezen uit de lijst die verschijnt.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projectmaterialen
 
-## Club leader resources
+## Club leider bronnen
 
-* [Downloadable completed Sonic Pi project](resources/live-dj.txt)
-* [Downloadable completed project mp3 file](resources/live-dj.mp3)
+* [Downloadbaar voltooid Sonic Pi-project](resources/live-dj.txt)
+* [Downloadbaar voltooid project mp3-bestand](resources/live-dj.mp3)
 
 \--- /collapse \---
