@@ -27,9 +27,10 @@ Je browser ondersteunt het element <code>audio</code> niet.
 </audio>
 </div>
 
-    In plaats van het spelen van dezelfde noot om de 8 beats, kun je ook `kiezen` voor een willekeurige noot van een **akkoord**. In dit geval is het akkoord **C Minor**.
-    
-   ![screenshot](images/dj-bass-random-note.png)
+  In plaats van het spelen van dezelfde noot om de 8 beats, kun je ook `kiezen` voor een willekeurige noot van een **akkoord**. In dit geval is het akkoord **C Minor**.
+  
+
+    ![screenshot](images/dj-bass-random-note.png)
 
 + 'Midden' C is eigenlijk `: c4`. Om lagere bas noten te spelen, voeg je een nummer lager dan 4 toe na de akkoordnaam.
     
