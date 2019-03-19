@@ -12,9 +12,13 @@
 
 + यदि आप अपने नमूने का परीक्षण करते हैं, तो आप देखेंगे कि यह **ड्रम से बिल्कुल मेल नहीं खाता** है!
     
-    <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
-    </div>
+<div id="audio-preview" class="pdf-hidden">
+<audio controls preload> 
+  <source src="resources/beat-bug.mp3" type="audio/mpeg"> 
+आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
+</audio>
+</div>
+
 + आपको जो पहली चीज़ करनी होगी वह है अपने नमूने को ड्रम बीट के साथ `sync` करना।
     
     ![स्क्रीनशॉट](images/dj-sample-sync.png)
@@ -35,6 +39,9 @@
 
 + 'चलाएँ' को फिर से दबाकर अपने कोड का परीक्षण करें -- **आपको संगीत को रोकने और फिर से शुरू करने की आवश्यकता नहीं है**! अब आपको आपका नमूना आपके ड्रम बीट के साथ समय पर चलता हुआ सुनाई देना चाहिए।
     
-    <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
-    </div>
+<div id="audio-preview" class="pdf-hidden">
+<audio controls preload> 
+  <source src="resources/beat-fixed.mp3" type="audio/mpeg"> 
+आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
+</audio>
+</div>
