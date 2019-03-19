@@ -14,9 +14,13 @@
 
 + अपने ड्रम लूप का परीक्षण करने के लिए 'Run' (चलाएँ) दबाएँ।
     
-    <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
-    </div>
+<div id="audio-preview" class="pdf-hidden">
+<audio controls preload> 
+  <source src="resources/drums.mp3" type="audio/mpeg"> 
+आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
+</audio>
+</div>
+
 + यदि आपका ड्रम लूप बहुत तेज़/धीमा है, तो आप बीट प्रति मिनट (bpm) को बदल सकते हैं।
     
     ![स्क्रीनशॉट](images/dj-bpm.png)
