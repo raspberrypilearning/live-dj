@@ -1,40 +1,40 @@
-## Adding a sample
+## एक नमूना जोड़ना
 
-Let's add a looping sample over the basic drum loop.
+आइए मूल ड्रम लूप पर लूपिंग का नमूना जोड़ें।
 
-+ To play a sample in time with your drums, create another `live_loop` called `:sample`.
++ अपने ड्रमों के साथ उसी समय पर कोई नमूना चलाने के लिए, `:sample` नामक दूसरा `live_loop` बनाएँ।
     
-    ![screenshot](images/dj-sample-loop.png)
+    ![स्क्रीनशॉट](images/dj-sample-loop.png)
 
-+ Add the sample `:loop_compus`, making it play every 8 beats.
++ नमूना `:loop_compus` जोड़ें, ताकि यह हर 8 बीट पर चले।
     
-    ![screenshot](images/dj-sample-bug.png)
+    ![स्क्रीनशॉट](images/dj-sample-bug.png)
 
-+ If you test your sample, you'll notice that it **doesn't match the drums** at all!
++ यदि आप अपने नमूने का परीक्षण करते हैं, तो आप देखेंगे कि यह **ड्रम से बिल्कुल मेल नहीं खाता** है!
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
     </div>
-+ The first thing you'll need to do is `sync` your sample with the drum beat.
++ आपको जो पहली चीज़ करनी होगी वह है अपने नमूने को ड्रम बीट के साथ `sync` करना।
     
-    ![screenshot](images/dj-sample-sync.png)
+    ![स्क्रीनशॉट](images/dj-sample-sync.png)
 
-+ This still doesn't sound right! Add code to print the duration of the sample:
++ इसकी आवाज़ अभी भी सही नहीं है! नमूने की अवधि को प्रिंट करने के लिए कोड जोड़ें:
     
-    ![screenshot](images/dj-sample-duration.png)
+    ![स्क्रीनशॉट](images/dj-sample-duration.png)
 
-+ If you scroll back through the **log**, you'll see that although the sample is repeating every 8 beats, **the sample doesn't quite last 8 beats**.
++ यदि आप **लॉग** के माध्यम से वापस स्क्रॉल करते हैं, तो आप देखेंगे कि हालांकि नमूना हर 8 बीट के बाद दोहरा रहा है, **फिर भी नमूना पूरे 8 बीट तक नहीं चलता है**।
     
-    ![screenshot](images/dj-sample-log.png)
+    ![स्क्रीनशॉट](images/dj-sample-log.png)
     
-    (You can now remove the code to print the sample duration.)
+    (अब आप नमूने की अवधि को प्रिंट करने के लिए कोड निकाल सकते हैं।)
 
-+ To match your sample with the drums you'll need to **stretch** the sample so that it lasts exactly 8 beats as well.
++ अपने नमूने का ड्रम के साथ मेल बैठाने के लिए आपको नमूने को **बड़ा** करने की आवश्यकता होगी ताकि यह पूरी तरह से 8 बीट भी चले।
     
-    ![screenshot](images/dj-sample-stretch.png)
+    ![स्क्रीनशॉट](images/dj-sample-stretch.png)
 
-+ Test your code by pressing 'Run' again -- **you don't need to stop and restart the music**! You should now hear that your sample plays in time with your drum beat.
++ 'चलाएँ' को फिर से दबाकर अपने कोड का परीक्षण करें -- **आपको संगीत को रोकने और फिर से शुरू करने की आवश्यकता नहीं है**! अब आपको आपका नमूना आपके ड्रम बीट के साथ समय पर चलता हुआ सुनाई देना चाहिए।
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
     </div>
