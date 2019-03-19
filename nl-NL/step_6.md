@@ -27,7 +27,7 @@ Je browser ondersteunt het element <code>audio</code> niet.
 </audio>
 </div>
 
-In plaats van het spelen van dezelfde noot om de 8 beats, kun je ook `kiezen` voor een willekeurige noot van een **akkoord**. In dit geval is het akkoord **C Minor**.
+    In plaats van het spelen van dezelfde noot om de 8 beats, kun je ook `kiezen` voor een willekeurige noot van een **akkoord**. In dit geval is het akkoord **C Minor**.
     
    ![screenshot](images/dj-bass-random-note.png)
 
