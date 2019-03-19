@@ -1,24 +1,24 @@
-## Drums
+## ड्रम
 
-Let's start by creating a simple drum loop.
+आइए हम एक सरल ड्रम लूप तैयार करके शुरू करें।
 
-+ Start by creating a `live_loop` called `:drums`.
++ `:drums` नामक एक `live_loop` बनाकर शुरू करें।
     
-    ![screenshot](images/dj-drums-loop.png)
+    ![स्क्रीनशॉट](images/dj-drums-loop.png)
     
-    Any code added to a `live_loop` will repeat until 'Stop' is pressed.
+    `live_loop` में जोड़ा गया कोई भी कोड तब तक दोहराया जाएगा जब तक 'स्टॉप' (बंद करें) को नहीं दबाया जाता।
 
-+ Add an alternating drum and snare, that play for one beat each.
++ बारी-बारी से बजने वाला ड्रम और स्नेयर (छोटा ड्रम) जोड़ें जो एक-एक बीट बजते हैं।
     
-    ![screenshot](images/dj-drums.png)
+    ![स्क्रीनशॉट](images/dj-drums.png)
 
-+ Press 'Run' to test your drum loop.
++ अपने ड्रम लूप का परीक्षण करने के लिए 'Run' (चलाएँ) दबाएँ।
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
     </div>
-+ If your drum loop is too fast/slow, you can change the beats per minute (bpm).
++ यदि आपका ड्रम लूप बहुत तेज़/धीमा है, तो आप बीट प्रति मिनट (bpm) को बदल सकते हैं।
     
-    ![screenshot](images/dj-bpm.png)
+    ![स्क्रीनशॉट](images/dj-bpm.png)
     
-    You'll need to stop and start your `live_loop` to speed it up or slow it down.
+    आपको इसे तेज़ करने या इसे धीमा करने के लिए अपने `live_loop` को रोकना और प्रारंभ करना होगा।
