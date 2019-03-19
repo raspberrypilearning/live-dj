@@ -1,39 +1,39 @@
 ---
 hero_image: images/live-dj.png
-theme: blue
+theme: नीला
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Live DJ
-description: Learn how to code a live music performance.
+description: लाइव संगीत प्रदर्शन को कोड करना सीखें।
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/live-dj
-interests: music
+interests: संगीत
 technologies: ''
-site_areas: projects
+site_areas: प्रोजेक्ट
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Drums
+    title: ड्रम
   - 
-    title: 'Challenge: Changing the drum loop'
+    title: 'चुनौती: ड्रम लूप को बदलना'
   - 
-    title: Adding a sample
+    title: एक नमूना जोड़ना
   - 
-    title: 'Challenge: Changing the sample'
+    title: 'चुनौती: नमूने को बदलना'
   - 
-    title: Adding bass
+    title: बास जोड़ना
   - 
-    title: 'Challenge: Changing the bass'
+    title: 'चुनौती: बास को बदलना'
   - 
-    title: Adding sound effects
+    title: ध्वनि प्रभाव जोड़ना
   - 
-    title: 'Challenge: Changing the effects'
+    title: 'चुनौती: प्रभावों को बदलना'
   - 
-    title: 'Challenge: Show off your DJ skills!'
+    title: 'चुनौती: अपने DJ कौशल दिखाना!'
