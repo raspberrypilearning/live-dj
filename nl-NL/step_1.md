@@ -11,9 +11,9 @@ In dit project leer je hoe je live muziek kunt coderen, zodat je die kunt toevoe
 Als je dit project wilt afdrukken, gebruik dan de [Printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/live-dj/print).
 
 --- collapse ---
-
-## titel: Clubleider notities
-
+---
+title: Clubleider notities
+---
 ## Inleiding:
 
 In dit project, zullen kinderen leren een `live_loop` te gebruiken om meerdere muziekstukken tegelijkertijd te laten spelen. Ze zullen ook leren dat loops kunnen worden bewerkt en gesynchroniseerd zonder de muziek te hoeven stoppen en herstarten.
