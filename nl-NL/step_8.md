@@ -12,9 +12,13 @@ Laten we tot slot enkele geluidseffecten aan je muziek toevoegen.
 
 + Klik op 'Run' om je code te testen (je hoeft niet te stoppen en je muziek opnieuw te starten). Je hoort elke 2 beats een piep effect.
     
-    <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/noises.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
-    </div>
+<div id="audio-preview" class="pdf-hidden">
+<audio controls preload> 
+  <source src="resources/noises.mp3" type="audio/mpeg"> 
+Je browser ondersteunt het element <code>audio</code> niet. 
+</audio>
+</div>
+
 + In plaats van elke keer hetzelfde effect te spelen, zou je in plaats daarvan willekeurig uit een lijst met 2 effecten kunnen kiezen.
     
     ![screenshot](images/dj-effects-sample-choose.png)
