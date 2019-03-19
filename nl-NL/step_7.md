@@ -1,4 +1,4 @@
---- uitdaging ---
+--- challenge ---
 
 ## Uitdaging: de bas veranderen
 
