@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Changing the effects
+## चुनौती: प्रभावों को बदलना
 
-Can you add even more sound effects to your music?
+क्या आप अपने संगीत में और भी अधिक ध्वनि प्रभाव जोड़ सकते हैं?
 
-![screenshot](images/dj-effects-more.png)
+![स्क्रीनशॉट](images/dj-effects-more.png)
 
 \--- /challenge \---
