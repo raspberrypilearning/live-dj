@@ -4,7 +4,7 @@ Let's add a looping sample over the basic drum loop.
 
 + To play a sample in time with your drums, create another `live_loop` called `:sample`.
     
-    ![screenshot](images/dj-sample-loop.png)
+    ![képernyőkép](images/dj-sample-loop.png)
 
 + Add the sample `:loop_compus`, making it play every 8 beats.
     
