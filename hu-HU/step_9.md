@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- kihívás \---
 
 ## Challenge: Changing the effects
 
