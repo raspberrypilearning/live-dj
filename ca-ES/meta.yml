@@ -1,24 +1,24 @@
 ---
-hero_image: images/live-dj.png
+hero_image: images / live-dj.png
 theme: blue
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, disseny-0, programació-1, phys-comp-0, fabricació-0, comunitat-0
 title: Live DJ
 description: Learn how to code a live music performance.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/live-dj
-interests: music
+interests: música
 technologies: ''
-site_areas: projects
+site_areas: projectes
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introducció
   - 
     title: Drums
   - 
