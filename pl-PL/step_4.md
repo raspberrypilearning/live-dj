@@ -4,11 +4,11 @@ Let's add a looping sample over the basic drum loop.
 
 + To play a sample in time with your drums, create another `live_loop` called `:sample`.
     
-    ![screenshot](images/dj-sample-loop.png)
+    ![zrzut ekranu](images/dj-sample-loop.png)
 
 + Add the sample `:loop_compus`, making it play every 8 beats.
     
-    ![screenshot](images/dj-sample-bug.png)
+    ![zrzut ekranu](images/dj-sample-bug.png)
 
 + If you test your sample, you'll notice that it **doesn't match the drums** at all!
     
@@ -25,13 +25,13 @@ Let's add a looping sample over the basic drum loop.
 
 + If you scroll back through the **log**, you'll see that although the sample is repeating every 8 beats, **the sample doesn't quite last 8 beats**.
     
-    ![screenshot](images/dj-sample-log.png)
+    ![zrzut ekranu](images/dj-sample-log.png)
     
     (You can now remove the code to print the sample duration.)
 
 + To match your sample with the drums you'll need to **stretch** the sample so that it lasts exactly 8 beats as well.
     
-    ![screenshot](images/dj-sample-stretch.png)
+    ![zrzut ekranu](images/dj-sample-stretch.png)
 
 + Test your code by pressing 'Run' again -- **you don't need to stop and restart the music**! You should now hear that your sample plays in time with your drum beat.
     
