@@ -4,13 +4,13 @@ Let's start by creating a simple drum loop.
 
 + Start by creating a `live_loop` called `:drums`.
     
-    ![screenshot](images/dj-drums-loop.png)
+    ![captura de pantalla](images/dj-drums-loop.png)
     
     Any code added to a `live_loop` will repeat until 'Stop' is pressed.
 
 + Add an alternating drum and snare, that play for one beat each.
     
-    ![screenshot](images/dj-drums.png)
+    ![captura de pantalla](images/dj-drums.png)
 
 + Press 'Run' to test your drum loop.
     
