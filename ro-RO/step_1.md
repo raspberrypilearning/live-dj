@@ -1,4 +1,4 @@
-## Introduction
+## Introducere
 
 In this project you will learn how to code a live music performance, that you can add to and edit without having to stop the music!
 
@@ -6,39 +6,39 @@ In this project you will learn how to code a live music performance, that you ca
   Press the play button below to hear how your music will sound: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### Informații suplimentare pentru conducătorii e club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/live-dj/print).
+Dacă aveți nevoie să imprimați acest proiect, vă rugăm să folosiți versiunea [Printer friendly version](https://projects.raspberrypi.org/en/projects/live-dj/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note pentru conducătorul clubului
 
-## Introduction:
+## Introducere:
 
 In this project, children will learn how to use `live_loop` to make multiple pieces of music play in time with each other. They will also learn that loops can be edited and synchronised without having to stop and restart the music.
 
-## Resources
+## Resurse
 
-The 'Project Materials' link for this project contains the following resources:
+Link-ul 'Materiale Necesare' pentru acest proiect contine urmatoarele resurse:
 
-##### Club leader Resources
+##### Resusrsele liderului Clubului
 
 You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 * live-dj.txt
 * live-dj.mp3
 
-## Learning Objectives
+## Obiectivele învățării
 
 * Sonic Pi 'Live Loop'
 * Playing random notes and samples
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combină modalități de programare ca să rezolvi o problemă.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Provocări
 
 * "Changing the drums" - editing the drum samples used;
 * "Changing the sample" - editing the sample used;
@@ -49,13 +49,13 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 * To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
-\--- /collapse \---
+\--- / colaps \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiale pentru proiect
 
-## Club leader resources
+## Resursele liderului clubului
 
 * [Downloadable completed Sonic Pi project](resources/live-dj.txt)
 * [Downloadable completed project mp3 file](resources/live-dj.mp3)
