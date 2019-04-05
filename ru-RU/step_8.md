@@ -8,7 +8,7 @@ Finally, let's add some sound effects to your music.
 
 + Add this code to play the `:elec_blip2` sample every 2 beats.
     
-    ![screenshot](images/dj-effects-sample.png)
+    ![скриншот](images/dj-effects-sample.png)
 
 + Click 'Run' to test your code (there's no need to stop and restart your music). You should hear a beep effect every 2 beats.
     
