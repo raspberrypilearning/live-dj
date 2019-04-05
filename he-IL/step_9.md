@@ -4,6 +4,6 @@
 
 Can you add even more sound effects to your music?
 
-![screenshot](images/dj-effects-more.png)
+![צילום מסך](images/dj-effects-more.png)
 
 \--- /challenge \---
