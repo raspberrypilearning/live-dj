@@ -1,4 +1,4 @@
-\--- challenge \---
+\---挑戰\---
 
 ## Challenge: Show off your DJ skills!
 
