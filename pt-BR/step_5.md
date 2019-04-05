@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- desafio \---
 
 ## Challenge: Changing the sample
 
