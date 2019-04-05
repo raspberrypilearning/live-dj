@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- meydan okuma \---
 
 ## Challenge: Changing the bass
 
@@ -9,6 +9,6 @@ Can you change the bass notes in your music. You could change:
 + The synth used
 + The sample played
 
-![screenshot](images/dj-bass-challenge.png)
+![ekran görüntüsü](images/dj-bass-challenge.png)
 
 \--- /challenge \---
