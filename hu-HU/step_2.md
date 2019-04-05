@@ -4,7 +4,7 @@ Let's start by creating a simple drum loop.
 
 + Start by creating a `live_loop` called `:drums`.
     
-    ![screenshot](images/dj-drums-loop.png)
+    ![képernyőkép](images/dj-drums-loop.png)
     
     Any code added to a `live_loop` will repeat until 'Stop' is pressed.
 
