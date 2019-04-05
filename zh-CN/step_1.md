@@ -1,4 +1,4 @@
-## Introduction
+## 简介
 
 In this project you will learn how to code a live music performance, that you can add to and edit without having to stop the music!
 
@@ -6,19 +6,19 @@ In this project you will learn how to code a live music performance, that you ca
   Press the play button below to hear how your music will sound: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### 俱乐部导师的附加信息
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/live-dj/print).
+如果您需要打印此项目，请使用[合适打印版本](https://projects.raspberrypi.org/en/projects/live-dj/print) 。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: 俱乐部导师说明
 
-## Introduction:
+## 简介
 
 In this project, children will learn how to use `live_loop` to make multiple pieces of music play in time with each other. They will also learn that loops can be edited and synchronised without having to stop and restart the music.
 
-## Resources
+## 资源
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -29,23 +29,23 @@ You can find a completed version of this project by clicking the 'Project Materi
 * live-dj.txt
 * live-dj.mp3
 
-## Learning Objectives
+## 学习目标
 
 * Sonic Pi 'Live Loop'
 * Playing random notes and samples
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+本项目涵盖[树莓派数字制作课程](http://rpf.io/curriculum)如下几方面内容：
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [综合利用编程结构解决问题。](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## 挑战
 
 * "Changing the drums" - editing the drum samples used;
 * "Changing the sample" - editing the sample used;
 * "Changing the bass" - editing the notes played;
 * "Changing the effects" - editing the effects used.
 
-## Frequently Asked Questions
+## 常见问题
 
 * To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
 
@@ -53,9 +53,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: 项目资源
 
-## Club leader resources
+## 俱乐部负责人资源
 
 * [Downloadable completed Sonic Pi project](resources/live-dj.txt)
 * [Downloadable completed project mp3 file](resources/live-dj.mp3)
