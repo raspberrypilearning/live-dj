@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- kihívás \---
 
 ## Challenge: Changing the drum loop
 
@@ -8,4 +8,4 @@ To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](ht
 
 ![screenshot](images/dj-drum-challenge.png)
 
-\--- /challenge \---
+\--- / challenge \---
