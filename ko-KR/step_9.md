@@ -1,9 +1,9 @@
-\--- challenge \---
+\--- 도전 \---
 
 ## Challenge: Changing the effects
 
 Can you add even more sound effects to your music?
 
-![screenshot](images/dj-effects-more.png)
+![스크린샷](images/dj-effects-more.png)
 
-\--- /challenge \---
+\--- /도전 \---
