@@ -4,7 +4,7 @@ Now let's add some bass notes to your music.
 
 + Start by creating a new `live_loop` called `:bass`. This new loop should also `sync` with the drums.
     
-    ![screenshot](images/dj-bass-loop.png)
+    ![képernyőkép](images/dj-bass-loop.png)
 
 + Add code to play a single note every 8 beats. The note played uses the `:chipbass` synth.
     
