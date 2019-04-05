@@ -22,7 +22,7 @@ Now let's add some bass notes to your music.
     </div>
     Instead of playing the same note every 8 beats, you can `choose` a random note from a **chord**. In this case, the chord is **C Minor**.
     
-    ![screenshot](images/dj-bass-random-note.png)
+    ![schermata](images/dj-bass-random-note.png)
 
 + 'Middle' C is actually `:c4`. To play lower bass notes, add a number lower than 4 after the chord name.
     
@@ -30,15 +30,15 @@ Now let's add some bass notes to your music.
 
 + Use a `sustain` to choose how many beats the note is held for.
     
-    ![screenshot](images/dj-bass-longer-note.png)
+    ![schermata](images/dj-bass-longer-note.png)
 
 + You can also use `amp` to choose the loudness of the bass. A number lower than 1 will be quieter, and higher than 1 will be louder.
     
-    ![screenshot](images/dj-bass-amp.png)
+    ![schermata](images/dj-bass-amp.png)
 
 + You can also add a (louder) sample to play at the start of each note.
     
-    ![screenshot](images/dj-bass-sample.png)
+    ![schermata](images/dj-bass-sample.png)
 
 + Press 'Run' to test your code. There's no need to stop and restart your music.
     
