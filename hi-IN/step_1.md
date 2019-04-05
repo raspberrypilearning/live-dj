@@ -12,7 +12,7 @@
 
 ## \--- collapse \---
 
-## title: क्लब लीडर की टिप्पणियाँ
+## title: क्लब नेता नोट्स
 
 ## परिचय:
 
@@ -29,14 +29,14 @@
 * live-dj.txt
 * live-dj.mp3
 
-## सीखने के उद्देश्य
+## अध्ययन के उद्देश्य
 
 * Sonic Pi 'लाइव लूप'
 * यादृच्छिक स्वर और नमूने बजाना
 
-इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
+इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
 
-* [समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़ें।](https://www.raspberrypi.org/curriculum/programming/builder)
+* [किसी समस्या को हल करने के लिए प्रोग्रामिंग संरचनाओं को जोड़ें।](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## चुनौतियाँ
 
@@ -47,7 +47,7 @@
 
 ## अक्सर पूछे जाने वाले सवाल
 
-* Sonic Pi में उपलब्ध नमूनों को खोजने के लिए, शिक्षार्थी [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) पर जा सकते हैं। वैकल्पिक रूप से, वे मात्र `sample [space]` टाइप कर सकते हैं और दिखाई देने वाली सूची में से चुन सकते हैं।
+* Sonic Pi में उपलब्ध नमूनों को खोजने के लिए, शिक्षार्थी [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) पर जा सकते हैं। वैकल्पिक रूप से, वे केवल `sample [space]` टाइप कर सकते हैं और दिखाई देने वाली सूची में से चुन सकते हैं।
 
 \--- /collapse \---
 
@@ -57,7 +57,7 @@
 
 ## क्लब लीडर संसाधन
 
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi प्रोजेक्ट](resources/live-dj.txt)
-* [डाउनलोड करने योग्य पूर्ण की गई प्रोजेक्ट mp3 फ़ाइल](resources/live-dj.mp3)
+* [डाउनलोड करने योग्य पूर्ण Sonic Pi प्रोजेक्ट](resources/live-dj.txt)
+* [डाउनलोड करने योग्य पूर्ण प्रोजेक्ट mp3 फ़ाइल](resources/live-dj.mp3)
 
 \--- /collapse \---
