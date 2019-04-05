@@ -4,7 +4,7 @@ Let's start by creating a simple drum loop.
 
 + Start by creating a `live_loop` called `:drums`.
     
-    ![screenshot](images/dj-drums-loop.png)
+    ![capture d'écran](images/dj-drums-loop.png)
     
     Any code added to a `live_loop` will repeat until 'Stop' is pressed.
 
@@ -19,6 +19,6 @@ Let's start by creating a simple drum loop.
     </div>
 + If your drum loop is too fast/slow, you can change the beats per minute (bpm).
     
-    ![screenshot](images/dj-bpm.png)
+    ![capture d'écran](images/dj-bpm.png)
     
     You'll need to stop and start your `live_loop` to speed it up or slow it down.
