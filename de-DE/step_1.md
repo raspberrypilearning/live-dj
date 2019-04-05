@@ -49,7 +49,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 * Um nach verfügbaren Beispielen in Sonic Pi zu suchen, können die Lernenden [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples)aufrufen. Alternativ können sie einfach `sample [space]` eingeben und aus der angezeigten Liste auswählen.
 
-\--- /collapse \---
+\--- /collapse\---
 
 ## \--- collapse \---
 
