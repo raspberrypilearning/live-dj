@@ -12,28 +12,21 @@ Laten we nu wat bas noten toevoegen aan je muziek.
 
 + Druk op 'Run' (je hoeft niet te stoppen en je muziek opnieuw te starten). Je zou elke 8 beats een noot moeten horen spelen.
     
-<div id="audio-preview" class="pdf-hidden">
-<audio controls preload> 
-  <source src="resources/bass-single.mp3" type="audio/mpeg"> 
-Je browser ondersteunt het element <code>audio</code> niet. 
-</audio>
-</div>
+    <div id="audio-preview" class="pdf-hidden">
+      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+    </div>
 
 + Een **chord** (akkoord) is een groep noten die samen worden gespeeld.
     
-<div id="audio-preview" class="pdf-hidden">
-<audio controls preload> 
-  <source src="resources/chord.mp3" type="audio/mpeg"> 
-Je browser ondersteunt het element <code>audio</code> niet. 
-</audio>
-</div>
+    <div id="audio-preview" class="pdf-hidden">
+      <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+    </div>
 
-  In plaats van het spelen van dezelfde noot om de 8 beats, kun je ook `kiezen` voor een willekeurige noot van een **akkoord**. In dit geval is het akkoord **C Minor**.
-  
+    In plaats van het spelen van dezelfde noot om de 8 beats, kun je ook `kiezen` voor een willekeurige noot van een **akkoord**. In dit geval is het akkoord **C Minor**.
+    
+    ![screenshot](images/dj-bass-random-note.png)
 
-   ![screenshot](images/dj-bass-random-note.png)
-
-+ 'Midden' C is eigenlijk `: c4`. Om lagere bas noten te spelen, voeg je een nummer lager dan 4 toe na de akkoordnaam.
++ 'Midden' C is eigenlijk `:c4`. Om lagere bas noten te spelen, voeg je een nummer lager dan 4 toe na de akkoordnaam.
     
     ![screenshot](images/dj-bass-lower-note.png)
 
@@ -51,9 +44,6 @@ Je browser ondersteunt het element <code>audio</code> niet.
 
 + Druk op 'Run' om je code te testen. Het is niet nodig om je muziek te stoppen en opnieuw te starten.
     
-<div id="audio-preview" class="pdf-hidden">
-<audio controls preload> 
-  <source src="resources/bass.mp3" type="audio/mpeg"> 
-Je browser ondersteunt het element <code>audio</code> niet. 
-</audio>
-</div>
+    <div id="audio-preview" class="pdf-hidden">
+      <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
+    </div>
