@@ -2,11 +2,11 @@
 
 Laten we een looping sample over de standaard drum loop toevoegen.
 
-+ Om een ​​sample op tijd met je drums te spelen, maak je nog een `live_loop` genaamd `:sample`.
++ Om een ​​sample tegelijk met je drums te spelen, maak je nog een `live_loop` genaamd `:sample`.
     
     ![screenshot](images/dj-sample-loop.png)
 
-+ Voeg de sample `:loop_compus` toe, waardoor het elke 8 beats wordt afgespeeld.
++ Voeg de sample `:loop_compus` toe die iedere 8 tellen speelt.
     
     ![screenshot](images/dj-sample-bug.png)
 
@@ -23,13 +23,13 @@ Laten we een looping sample over de standaard drum loop toevoegen.
     
     ![screenshot](images/dj-sample-duration.png)
 
-+ Als je terug door het **log** (logboek) bladert, zie je dat hoewel het sample elke 8 beats herhaalt, **het sample niet helemaal 8 beats duurt**.
++ Als je terug door het **log** (logboek) bladert, zie je dat hoewel het sample elke 8 tellen herhaalt, **het sample niet helemaal 8 tellen duurt**.
     
     ![screenshot](images/dj-sample-log.png)
     
     (Je kunt nu de code verwijderen om de sample duur weer te geven.)
 
-+ Om je sample overeen te laten komen met de drums moet je de sample uitrekken **stretch** zodat het ook precies 8 beats duurt.
++ Om je sample overeen te laten komen met de drums moet je de sample **uitrekken** (stretch) zodat het ook precies 8 tellen duurt.
     
     ![screenshot](images/dj-sample-stretch.png)
 
