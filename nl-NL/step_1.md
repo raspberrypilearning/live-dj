@@ -26,8 +26,8 @@ De link 'Projectmaterialen' voor dit project bevat de volgende bronnen:
 
 Je kunt een voltooide versie van dit project vinden door te klikken op de link 'Projectmaterialen' voor dit project, dat het volgende bevat:
 
-* live dj.txt
-* live dj.mp3
+* live-dj.txt
+* live-dj.mp3
 
 ## Leerdoelen
 
@@ -47,7 +47,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi
 
 ## Veel Gestelde Vragen
 
-* Om voorbeelden te vinden die beschikbaar zijn in Sonic Pi, kunnen leerlingen naar [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Als alternatief kunnen ze gewoon `sample [space]` typen en kiezen uit de lijst die verschijnt.
+* Om samples te vinden die beschikbaar zijn in Sonic Pi, kunnen leerlingen naar [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Als alternatief kunnen ze gewoon `sample [space]` typen en kiezen uit de lijst die verschijnt.
 
 \--- /collapse \---
 
