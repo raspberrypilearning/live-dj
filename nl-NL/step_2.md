@@ -8,7 +8,7 @@ Laten we beginnen met het creëren van een eenvoudige drum loop.
     
     Elke code die is toegevoegd aan een `live_loop` zal worden herhaald totdat op 'Stop' wordt gedrukt.
 
-+ Voeg een afwisselend drum en snare toe, die elk één beat spelen.
++ Voeg een afwisselende drum en snare toe, die elk één tel spelen.
     
     ![screenshot](images/dj-drums.png)
 
