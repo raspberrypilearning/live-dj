@@ -6,11 +6,11 @@ Laten we tot slot enkele geluidseffecten aan je muziek toevoegen.
     
     ![screenshot](images/dj-effects-loop.png)
 
-+ Voeg deze code toe om de `:elec_blip2` sample om de 2 beats af te spelen.
++ Voeg deze code toe om de `:elec_blip2` sample om de 2 tellen af te spelen.
     
     ![screenshot](images/dj-effects-sample.png)
 
-+ Klik op 'Run' om je code te testen (je hoeft niet te stoppen en je muziek opnieuw te starten). Je hoort elke 2 beats een piep effect.
++ Klik op 'Run' om je code te testen (je hoeft niet te stoppen en je muziek opnieuw te starten). Je hoort elke 2 tellen een piepeffect.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/noises.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
@@ -19,4 +19,4 @@ Laten we tot slot enkele geluidseffecten aan je muziek toevoegen.
     
     ![screenshot](images/dj-effects-sample-choose.png)
 
-+ Klik op 'Uitvoeren' om je willekeurige effecten te testen (het is niet nodig om je muziek te stoppen en opnieuw te starten).
++ Klik op 'Run' om je willekeurige effecten te testen (het is niet nodig om je muziek te stoppen en opnieuw te starten).
