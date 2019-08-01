@@ -6,34 +6,34 @@ Jetzt legen wir eines neues, sich wiederholendes Sample über unseren Drum-Loop.
     
     ![Screenshot](images/dj-sample-loop.png)
 
-+ Fügen Sie das Sample `: loop_compus`, damit es alle 8 Beats abgespielt wird.
++ Fügen das Sample `: loop_compus` ein, das alle 8 Beats abgespielt werden soll.
     
-    ![screenshot](images/dj-sample-bug.png)
+    ![Screenshot](images/dj-sample-bug.png)
 
-+ Wenn Sie Ihr Sample testen, werden Sie feststellen, dass **nicht zu den Drums** passt.
++ Wenn du dein Sample abspielst, merkst du, dass **nicht zu den Drums** passt!
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
-+ Das erste , was Sie tun müssen, ist `sync` Ihre Probe mit dem Trommelschlag.
++ Als erstes musst du das Sample mit dem Drum-Loop abgleichen. Verwende dazu den `sync` Befehl.
     
-    ![screenshot](images/dj-sample-sync.png)
+    ![Screenshot](images/dj-sample-sync.png)
 
-+ Das hört sich immer noch nicht richtig an! Fügen Sie Code hinzu, um die Dauer des Beispiels zu drucken:
++ Das hört sich aber immer noch nicht richtig an! Verwende diesen Befehl, um die Länge des Samples auszugben:
     
-    ![screenshot](images/dj-sample-duration.png)
+    ![Screenshot](images/dj-sample-duration.png)
 
-+ Wenn Sie durch **log**zurückblättern, werden Sie feststellen, dass das Sample zwar alle 8 Schläge wiederholt, **aber nicht ganz 8 Schläge**dauert.
++ Wenn du jetzt im **Protokoll** suchst, wirst du sehen, dass das Sample zwar alle 8 Takte wiederholt wird, **aber nicht ganz 8 Takte**dauert.
     
     ![Screenshot](images/dj-sample-log.png)
     
-    (Sie können jetzt den Code entfernen, um die Beispieldauer zu drucken.)
+    (Du kannst jetzt den Befehl zum Ausgeben der Länge des Samples wieder löschen.)
 
-+ Um entsprechen Ihre Probe mit den Trommeln Sie benötigen , um **Strecke** die Probe , so dass es genau 8 Schläge als auch dauert.
++ Um das Sample exakt mit dem Drum-Loop abzugleichen, musst du es etwas **verlängern**, damit es auch genau 8 Takte lang dauert.
     
     ![Screenshot](images/dj-sample-stretch.png)
 
-+ Testen Sie Ihren Code, indem Sie erneut auf "Ausführen" klicken - **Sie müssen die Musik nicht stoppen und erneut starten**! Sie sollten jetzt hören, dass Ihr Sample zeitlich mit Ihrem Drum-Beat gespielt wird.
++ Testen Sie Ihren Code, indem Sie erneut auf "Ausführen" klicken - **Sie müssen die Musik nicht stoppen und erneut starten**! Du solltest jetzt hören, dass dein Sample zeitlich mit Ihrem Drum-Loop gespielt wird.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
