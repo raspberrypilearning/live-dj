@@ -1,4 +1,4 @@
-## Den Bass hinzufügen
+## Einen Bass hinzufügen
 
 Jetzt fügen wir der Musik einige Bassnoten hinzu.
 
