@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Herausforderung: Ändern der Effekte
+## Herausforderung: Ändere die Effekte
 
-Können Sie Ihrer Musik noch mehr Soundeffekte hinzufügen?
+Kannst du deiner Musik noch mehr Soundeffekte hinzufügen?
 
-![screenshot](images/dj-effects-more.png)
+![Screenshot](images/dj-effects-more.png)
 
 \--- /challenge \---
