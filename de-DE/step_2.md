@@ -1,23 +1,23 @@
 ## Schlagzeug
 
-Beginnen wir mit dem Erstellen einer einfachen Drumloop.
+Lass uns anfangen, indem wir einen einfachen Drum-Loop erstellen.
 
-+ Beginnen Sie mit der Erstellung einer `live_loop` Namen `: Drums`.
++ Erstelle zuerst einen `live_loop` mit dem Namen `: Drums`.
     
     ![Screenshot](images/dj-drums-loop.png)
     
-    Jeder zu einer `live_loop` hinzugefügte Code wird wiederholt, bis "Stop" gedrückt wird.
+    Alles dass zu einem `live_loop` hinzugefügt wird, wird wiederholt, bis "Stop" gedrückt wird.
 
-+ Fügen Sie eine abwechselnde Trommel und Snare hinzu, die jeweils einen Beat spielen.
++ Füge eine grosse und kleine Trommel hinzu, die abwechselnd jeweils einen Beat spielen.
     
-    ![screenshot](images/dj-drums.png)
+    ![Screenshot](images/dj-drums.png)
 
-+ Drücken Sie 'Run', um Ihre Drumloops zu testen.
++ Klicke das mit 'Run' beschriftete Wiedergabebutton, um deine Drum-Loops abzuspielen.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
-+ Wenn Ihre Drum-Loop zu schnell oder zu langsam ist, können Sie die Beats pro Minute (BPM) ändern.
++ Wenn falls dir dein Drum-Loop zu schnell oder zu langsam ist, kannst du die Geschwindigkeit, gemessen in Beats pro Minute (bpm), ändern.
     
     ![screenshot](images/dj-bpm.png)
     
