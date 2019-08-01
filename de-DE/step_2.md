@@ -19,6 +19,6 @@ Lass uns anfangen, indem wir einen einfachen Drum-Loop erstellen.
     </div>
 + Wenn falls dir dein Drum-Loop zu schnell oder zu langsam ist, kannst du die Geschwindigkeit, gemessen in Beats pro Minute (bpm), ändern.
     
-    ![screenshot](images/dj-bpm.png)
+    ![Screenshot](images/dj-bpm.png)
     
-    Sie müssen Ihre `live_loop` anhalten und starten, um sie zu beschleunigen oder zu verlangsamen.
+    Du musst die Wiedergabe deines `live_loop` anhalten und neu starten, um ihn zu beschleunigen oder zu verlangsamen.
