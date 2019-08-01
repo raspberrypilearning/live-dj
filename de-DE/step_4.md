@@ -1,8 +1,8 @@
-## Probe hinzufügen
+## Ein Sample hinzufügen
 
-Fügen Sie ein Loop-Sample über der einfachen Drum-Loop hinzu.
+Jetzt legen wir eines neues, sich wiederholendes Sample über unseren Drum-Loop.
 
-+ Um ein Sample zeitlich mit Ihrem Schlagzeug abzuspielen, erstellen Sie eine weitere `live_loop` Namen `: Sample`.
++ Um ein Sample zeitgleich mit deinem Drum-Loop abzuspielen, programmieren wir einen weiteren `live_loop` mit dem Namen `: Sample`.
     
     ![Screenshot](images/dj-sample-loop.png)
 
