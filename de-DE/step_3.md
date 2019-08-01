@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Herausforderung: Drumloop wechseln
+## Herausforderung: Ändere den Drum-Loop
 
-Können Sie verschiedene Samples in Ihrer Drumloop verwenden?
+Kannst du andere Samples für deinem Drum-Loop verwenden?
 
-Um zu sehen, welche Samples verfügbar sind, können Sie zu [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples)wechseln oder einfach `sample: drum` eingeben und aus der angezeigten Liste auswählen.
+Du kannst zu [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) gehen um die Samples in Sonic-Pi zu sehen oder einfach `sample: drum` eingeben und aus der angezeigten Liste auswählen.
 
-![screenshot](images/dj-drum-challenge.png)
+![Screenshot](images/dj-drum-challenge.png)
 
 \--- /challenge \---
