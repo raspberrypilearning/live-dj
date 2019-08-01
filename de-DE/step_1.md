@@ -1,9 +1,9 @@
 ## Einleitung
 
-In diesem Projekt lernen Sie, wie Sie eine Live-Musik-Performance programmieren, die Sie hinzufügen und bearbeiten können, ohne die Musik stoppen zu müssen!
+In diesem Projekt lernst du, wie du eine Musik-Performance live programmieren, erweitern und verändern kannst, währen die Musik weiter läuft!
 
 <div id="audio-preview" class="pdf-hidden">
-  Drücken Sie die Wiedergabetaste, um zu hören, wie Ihre Musik klingt: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+  Drücke die Wiedergabetaste, um zu hören, wie die Musik klingen wird: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
 </div>
 
 ### Zusätzliche Information für Clubleiter
@@ -16,7 +16,7 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## Einleitung:
 
-In diesem Projekt lernen Kinder, mit `live_loop` mehrere Musikstücke zeitlich miteinander spielen zu lassen. Sie lernen auch, dass Loops bearbeitet und synchronisiert werden können, ohne die Musik stoppen und erneut starten zu müssen.
+In diesem Projekt lernen Kinder, mit dem `live_loop` mehrere Musikstücke zeitgleich abzuspielen. Sie lernen auch, dass Loops bearbeitet und synchronisiert werden können, ohne die Musik stoppen und erneut starten zu müssen.
 
 ## Ressourcen
 
@@ -32,7 +32,7 @@ Sie können eine vollständige Version dieses Projekts finden, indem Sie auf den
 ## Lernziele
 
 * Sonic Pi 'Live Loop'
-* Zufällige Notizen und Samples abspielen
+* Zufällige Noten und Samples abspielen
 
 Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
@@ -40,20 +40,20 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Herausforderungen
 
-* "Schlagzeug wechseln" - Bearbeitung der verwendeten Schlagzeug-Samples;
-* "Ändern des Samples" - Bearbeiten des verwendeten Samples;
-* "Bass wechseln" - Bearbeiten der gespielten Noten;
-* "Ändern der Effekte" - Bearbeiten der verwendeten Effekte.
+* "Ändere den Drum-Loop" - Bearbeitung der verwendeten Schlagzeug-Samples;
+* "Ändern das Sample" - Bearbeiten des verwendeten Samples;
+* "Ändere den Bass" - Bearbeiten der gespielten Noten;
+* "Ändern die Effekte" - Bearbeiten der verwendeten Effekte.
 
 ## Häufig Gestellte Fragen
 
-* Um nach verfügbaren Beispielen in Sonic Pi zu suchen, können die Lernenden [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples)aufrufen. Alternativ können sie einfach `sample [space]` eingeben und aus der angezeigten Liste auswählen.
+* Die in Sonic Pi verfügbaren Samples können die Lernenden unter [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) finden. Alternativ können sie einfach `sample [space]` eingeben und aus der angezeigten Liste auswählen.
 
-\--- /collapse\---
+\--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Projektmaterial
+## title: Projektmaterialien
 
 ## Ressourcen für Clubleiter
 
