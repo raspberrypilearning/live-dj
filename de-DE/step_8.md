@@ -1,22 +1,22 @@
 ## Soundeffekte hinzufügen
 
-Zum Schluss fügen wir Ihrer Musik einige Soundeffekte hinzu.
+Zum Schluss fügen wir deiner Musik einige Soundeffekte hinzu.
 
-+ Fügen Sie eine weitere `live_loop` Namen `: effects`, die ``s mit den Drums synchronisieren.
++ Erstelle einen weiteren `live_loop` mit dem Namen `:effekte`, der auch mit dem Drum-Loop abgeglichen wird.
     
     ![Screenshot](images/dj-effects-loop.png)
 
-+ Fügen Sie diesen Code hinzu, um die `: elec_blip2` Sample alle 2 Beats abzuspielen.
++ Fügen Sie diesen Befehl hinzu, um ein `:elec_blip2` Sample alle 2 Takte abzuspielen.
     
-    ![screenshot](images/dj-effects-sample.png)
+    ![Screenshot](images/dj-effects-sample.png)
 
-+ Klicken Sie auf "Ausführen", um Ihren Code zu testen (Ihre Musik muss nicht angehalten und erneut gestartet werden). Sie sollten alle 2 Schläge einen Piepton hören.
++ Klicken das Wiedergabebutton, um die Änderungen zu hören (deine Musik muss dazu nicht angehalten und erneut gestartet werden). Du solltest alle 2 Takte einen Piepton hören.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/noises.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
-+ Anstatt jedes Mal denselben Effekt zu spielen, können Sie stattdessen aus einer Liste von 2 Effekten zufällig auswählen.
++ Anstatt jedes Mal denselben Effekt zu spielen, könntest du zufällig einen aus einer Liste von 2 Effekten auswählen.
     
-    ![screenshot](images/dj-effects-sample-choose.png)
+    ![Screenshot](images/dj-effects-sample-choose.png)
 
-+ Klicken Sie auf "Ausführen", um Ihre zufälligen Effekte zu testen (Ihre Musik muss nicht angehalten und erneut gestartet werden).
++ Klicke auf das Wiedergabebutton, um deine zufälligen Effekte zu hören (die Musik muss dazu nicht angehalten und erneut gestartet werden).
