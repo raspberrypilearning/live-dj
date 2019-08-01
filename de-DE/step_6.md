@@ -1,4 +1,4 @@
-## Bass hinzufügen
+## Den Bass hinzufügen
 
 Jetzt fügen wir der Musik einige Bassnoten hinzu.
 
@@ -28,19 +28,19 @@ Jetzt fügen wir der Musik einige Bassnoten hinzu.
     
     ![Screenshot](images/dj-bass-lower-note.png)
 
-+ Verwenden Sie eine `Sustain` um auszuwählen, für wie viele Schläge die Note gehalten wird.
++ Mit dem Befehl `sustain` kannst du entscheiden für wie viele Takte die Note gehalten wird.
     
     ![Screenshot](images/dj-bass-longer-note.png)
 
-+ Sie können auch `Amp` , um die Lautstärke des Basses zu wählen. Eine Zahl unter 1 ist leiser und eine Zahl größer als 1 ist lauter.
++ Du kannst auch den `amp`-Befehl nutzen, um die Lautstärke des Basses zu wählen. Eine Zahl kleiner als 1 ist leiser und eine Zahl größer als 1 ist lauter.
     
     ![Screenshot](images/dj-bass-amp.png)
 
-+ Sie können auch ein (lauteres) Sample hinzufügen, das am Anfang jeder Note gespielt wird.
++ Du kannst auch ein (lauteres) Sample hinzufügen, das am Anfang jeder Note gespielt wird.
     
     ![Screenshot](images/dj-bass-sample.png)
 
-+ Klicken Sie auf "Ausführen", um Ihren Code zu testen. Sie müssen Ihre Musik nicht stoppen und erneut starten.
++ Klicken auf das Wiedergabebutton, um die Änderungen zu testen. Du musst deine Musik dazu nicht stoppen und erneut starten.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
