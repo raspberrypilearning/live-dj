@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Herausforderung: Probe wechseln
+## Herausforderung: Ändere das Sample
 
-Können Sie die verwendete Probe ändern?
+Kannst du ein anderes Sample verwenden?
 
-Um zu sehen, welche Loop-Samples verfügbar sind, können Sie zu [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples)wechseln oder einfach `sample: loop` eingeben und aus der angezeigten Liste auswählen.
+Du kannst zu [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) gehen um die Samples in Sonic-Pi zu sehen oder einfach `sample: loop` eingeben und aus der angezeigten Liste auswählen.
 
-![screenshot](images/dj-sample-choose.png)
+![Screenshot](images/dj-sample-choose.png)
 
-Möglicherweise müssen Sie auch die Zahlen in Ihrem Code für verschiedene Beispiele ändern. Sie können den folgenden Code verwenden, um das Beispiel einer Dauer herauszufinden:
+Du musst möglicherweise auch die Zahlen in deinem Programm ändern, damit sie für verschiedene Samples passen. Mit dem folgenden Befehl kannst du die Länge eines Samples herausfinden:
 
-`setzt sample_duration (: sample_name)`
+`puts sample_duration(:name_des_samples)`
 
-Um Schleife eine Probe ohne Spalt, **stellen Sie sicher , dass beide Zahlen übereinstimmen**.
+Damit ein Sample ohne Unterbrechnung wiederholt wird, **musst du sicherstellen, dass die beide Zahlen übereinstimmen**.
 
 ![Screenshot](images/dj-sample-numbers.png)
 
-Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
+-- /challenge --
