@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Herausforderung: Bass wechseln
+## Herausforderung: Ändere den Bass
 
-Können Sie die Basstöne Ihrer Musik ändern? Sie könnten sich ändern:
+Kannst du die Basstöne in deiner Musik verändern. Du könntest folgendes ändern:
 
-+ Der Name des gespielten Akkords, z. B. `f2` statt `c2`
-+ Der Akkordtyp, zB `: Dur` statt `: Moll`
-+ Der verwendete Synth
-+ Das Beispiel wurde abgespielt
++ Den Namen des gespielten Akkords, z. B. `f2` statt `c2`
++ Der Akkordtyp, z.B. Dur (`:major`) statt Moll (`:minor`)
++ Den verwendeten Synthesizer
++ Das Sample das gespielt wird
 
-![screenshot](images/dj-bass-challenge.png)
+![Screenshot](images/dj-bass-challenge.png)
 
 \--- /challenge \---
