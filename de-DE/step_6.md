@@ -1,16 +1,16 @@
 ## Bass hinzufügen
 
-Jetzt fügen wir Ihrer Musik einige Bassnoten hinzu.
+Jetzt fügen wir der Musik einige Bassnoten hinzu.
 
-+ Beginnen Sie mit der Erstellung einer neuen `live_loop` Namen `: bass`. Diese neue Schleife soll auch `Sync -` mit den Trommeln.
++ Beginnen mit einem neuen `live_loop` mit dem Namen `: bass`. Auch diese neue Schleife soll mit dem `sync`-Befehl mit dem Drum-Loop abgeglichen werden.
     
     ![Screenshot](images/dj-bass-loop.png)
 
-+ Fügen Sie Code hinzu, um alle 8 Beats eine einzelne Note zu spielen. Die gespielte Note verwendet den `: chipbass` Synth.
++ Erweitere das Programm, so dass alle 8 Takte eine einzelne Note gespielt wird. Die Note wird mit dem `: chipbass` Synthesizer gespielt.
     
-    ![screenshot](images/dj-bass-note.png)
+    ![Screenshot](images/dj-bass-note.png)
 
-+ Drücken Sie auf "Ausführen" (Sie müssen Ihre Musik nicht stoppen und erneut starten). Sie sollten alle 8 Beats ein Notenspiel hören.
++ Klicke das Wiedergabebutton (Du musst die Musik nicht stoppen und erneut starten). Du solltest die Note alle 8 Takte hören.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
@@ -20,13 +20,13 @@ Jetzt fügen wir Ihrer Musik einige Bassnoten hinzu.
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
-    Statt die gleiche Note alle 8 Takte spielen, können Sie `wählen` eine zufällige Note aus einem **- Akkorde**. In diesem Fall ist der Akkord **C Minor**.
+    Statt die gleiche Note alle 8 Takte zu spielen, kannst du eine zufällige Note aus einem **- Akkorde** wählen. In diesem Fall ist der Akkord **C Moll**.
     
     ![Screenshot](images/dj-bass-random-note.png)
 
-+ "Mitte" C ist eigentlich `: c4`. Um tiefere Basstöne zu spielen, fügen Sie nach dem Akkordnamen eine Zahl niedriger als 4 hinzu.
++ Das "mittlere" C ist eigentlich `:c4`. Um tiefere Basstöne zu spielen, fügen Sie nach dem Akkordnamen eine Zahl niedriger als 4 hinzu.
     
-    ![screenshot](images/dj-bass-lower-note.png)
+    ![Screenshot](images/dj-bass-lower-note.png)
 
 + Verwenden Sie eine `Sustain` um auszuwählen, für wie viele Schläge die Note gehalten wird.
     
