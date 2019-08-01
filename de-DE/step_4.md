@@ -33,7 +33,7 @@ Jetzt legen wir eines neues, sich wiederholendes Sample über unseren Drum-Loop.
     
     ![Screenshot](images/dj-sample-stretch.png)
 
-+ Testen Sie Ihren Code, indem Sie erneut auf "Ausführen" klicken - **Sie müssen die Musik nicht stoppen und erneut starten**! Du solltest jetzt hören, dass dein Sample zeitlich mit Ihrem Drum-Loop gespielt wird.
++ Klicke auf das Wiedergabebutton um deiner Änderungen zu hören- **Du musst dazu die Musik nicht stoppen und erneut starten**! Du solltest jetzt hören, dass dein Sample zeitlich mit Ihrem Drum-Loop gespielt wird.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
