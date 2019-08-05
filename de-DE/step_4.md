@@ -2,11 +2,11 @@
 
 Jetzt legen wir eines neues, sich wiederholendes Sample über unseren Drum-Loop.
 
-+ Um ein Sample zeitgleich mit deinem Drum-Loop abzuspielen, programmieren wir einen weiteren `live_loop` mit dem Namen `: Sample`.
++ Um ein Sample zeitgleich mit deinem Drum-Loop abzuspielen, programmieren wir einen weiteren `live_loop` mit dem Namen `:sample`.
     
     ![Screenshot](images/dj-sample-loop.png)
 
-+ Fügen das Sample `: loop_compus` ein, das alle 8 Beats abgespielt werden soll.
++ Füge das Sample `:loop_compus` ein, das alle 8 Takte abgespielt werden soll.
     
     ![Screenshot](images/dj-sample-bug.png)
 
@@ -15,15 +15,15 @@ Jetzt legen wir eines neues, sich wiederholendes Sample über unseren Drum-Loop.
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
-+ Als erstes musst du das Sample mit dem Drum-Loop abgleichen. Verwende dazu den `sync` Befehl.
++ Als erstes musst du das Sample mit dem Schlagzeug abgleichen. Verwende dazu den `sync` Befehl.
     
     ![Screenshot](images/dj-sample-sync.png)
 
-+ Das hört sich aber immer noch nicht richtig an! Verwende diesen Befehl, um die Länge des Samples auszugben:
++ Das hört sich aber immer noch nicht richtig an! Verwende den gezeigten Befehl, um die Länge des Samples auszugben:
     
     ![Screenshot](images/dj-sample-duration.png)
 
-+ Wenn du jetzt im **Protokoll** suchst, wirst du sehen, dass das Sample zwar alle 8 Takte wiederholt wird, **aber nicht ganz 8 Takte**dauert.
++ Wenn du jetzt im **Protokoll** suchst, wirst du sehen, dass das Sample zwar alle 8 Takte wiederholt wird, **aber nicht ganz 8 Takte** dauert.
     
     ![Screenshot](images/dj-sample-log.png)
     
