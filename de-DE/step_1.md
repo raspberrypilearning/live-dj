@@ -1,9 +1,9 @@
 ## Einleitung
 
-In diesem Projekt lernst du, wie du eine Musik-Performance live programmieren, erweitern und verändern kannst, währen die Musik weiter läuft!
+In diesem Projekt lernst du, wie du ein Musikstück live programmieren, erweitern und verändern kannst, währen die Musik weiter läuft!
 
 <div id="audio-preview" class="pdf-hidden">
-  Drücke die Wiedergabetaste, um zu hören, wie die Musik klingen wird: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+  Drücke die Wiedergabetaste, um zu hören, wie das Musikstück klingen wird: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
 </div>
 
 ### Zusätzliche Information für Clubleiter
@@ -40,7 +40,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Herausforderungen
 
-* "Ändere den Drum-Loop" - Bearbeitung der verwendeten Schlagzeug-Samples;
+* "Ändere den Drum-Loop" - Bearbeiten der verwendeten Schlagzeug-Samples;
 * "Ändere das Sample" - Bearbeiten des verwendeten Samples;
 * "Ändere den Bass" - Bearbeiten der gespielten Noten;
 * "Ändere die Effekte" - Bearbeiten der verwendeten Effekte.
