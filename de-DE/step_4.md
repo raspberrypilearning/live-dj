@@ -10,7 +10,7 @@ Jetzt legen wir eines neues, sich wiederholendes Sample über unseren Drum-Loop.
     
     ![Screenshot](images/dj-sample-bug.png)
 
-+ Wenn du dein Sample abspielst, merkst du, dass **nicht zu den Drums** passt!
++ Wenn du dein Sample abspielst, merkst du, dass es **nicht zu dem Drum-Loop** passt!
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
@@ -33,7 +33,7 @@ Jetzt legen wir eines neues, sich wiederholendes Sample über unseren Drum-Loop.
     
     ![Screenshot](images/dj-sample-stretch.png)
 
-+ Klicke auf das Wiedergabebutton um deiner Änderungen zu hören- **Du musst dazu die Musik nicht stoppen und erneut starten**! Du solltest jetzt hören, dass dein Sample zeitlich mit Ihrem Drum-Loop gespielt wird.
++ Klicke auf das Wiedergabebutton um deiner Änderungen zu hören- **Du musst die Wiedergabe dazu nicht erst beenden und erneut starten**! Du solltest jetzt hören, dass dein Sample zeitlich mit Ihrem Drum-Loop gespielt wird.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
