@@ -8,7 +8,7 @@ Du kannst zu [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) geh
 
 ![Screenshot](images/dj-sample-choose.png)
 
-Du musst möglicherweise auch die Zahlen in deinem Programm ändern, damit sie für verschiedene Samples passen. Mit dem folgenden Befehl kannst du die Länge eines Samples herausfinden:
+Du musst vielleicht auch die Zahlen in deinem Programm ändern, damit sie für verschiedene Samples passen. Mit dem folgenden Befehl kannst du die Länge eines Samples herausfinden:
 
 `puts sample_duration(:name_des_samples)`
 
