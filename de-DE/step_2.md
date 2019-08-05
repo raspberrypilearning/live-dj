@@ -2,7 +2,7 @@
 
 Lass uns anfangen, indem wir einen einfachen Drum-Loop erstellen.
 
-+ Erstelle zuerst einen `live_loop` mit dem Namen `: Drums`.
++ Erstelle zuerst einen `live_loop` mit dem Namen `:schlagzeug`.
     
     ![Screenshot](images/dj-drums-loop.png)
     
