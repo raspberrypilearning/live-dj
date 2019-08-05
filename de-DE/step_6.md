@@ -1,6 +1,6 @@
 ## Einen Bass hinzufügen
 
-Jetzt fügen wir der Musik einige Bassnoten hinzu.
+Jetzt fügen wir dem Musikstück einige Bassnoten hinzu.
 
 + Beginne mit einem neuen `live_loop` mit dem Namen `:bass`. Auch diese neue Schleife soll mit dem `sync`-Befehl mit dem Schlagzeug abgeglichen werden.
     
@@ -40,7 +40,7 @@ Jetzt fügen wir der Musik einige Bassnoten hinzu.
     
     ![Screenshot](images/dj-bass-sample.png)
 
-+ Klicke auf das Wiedergabebutton, um die Änderungen zu testen. Du musst die Wiedergabe dazu nicht beenden und erneut starten.
++ Klicke auf das Wiedergabebutton, um die Änderungen zu hören. Du musst die Wiedergabe dazu nicht erst beenden und erneut starten.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
