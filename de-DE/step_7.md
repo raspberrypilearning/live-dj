@@ -2,7 +2,7 @@
 
 ## Herausforderung: Ändere den Bass
 
-Kannst du die Basstöne in deiner Musik verändern. Du könntest folgendes ändern:
+Kannst du die Basstöne in deinem Musikstück verändern. Du könntest folgendes ändern:
 
 + Den Namen des gespielten Akkords, z. B. `f2` statt `c2`
 + Der Akkordtyp, z.B. Dur (`:major`) statt Moll (`:minor`)
