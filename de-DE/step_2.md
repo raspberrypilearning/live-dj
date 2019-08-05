@@ -17,7 +17,7 @@ Lass uns anfangen, indem wir einen einfachen Drum-Loop erstellen.
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
-+ Wenn falls dir dein Drum-Loop zu schnell oder zu langsam ist, kannst du die Geschwindigkeit, gemessen in Beats pro Minute (bpm), ändern.
++ Wenn dir dein Drum-Loop zu schnell oder zu langsam ist, kannst du die Geschwindigkeit, gemessen in Beats pro Minute (bpm), ändern.
     
     ![Screenshot](images/dj-bpm.png)
     
