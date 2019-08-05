@@ -20,7 +20,7 @@ In diesem Projekt lernen Kinder, mit dem `live_loop` mehrere Musikstücke zeitgl
 
 ## Ressourcen
 
-Der Link "Projektmaterialien" für dieses Projekt enthält die folgenden Ressourcen:
+Der Link "Projektmaterial" für dieses Projekt enthält die folgenden Ressourcen:
 
 ##### Ressourcen für Clubleiter
 
@@ -41,9 +41,9 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 ## Herausforderungen
 
 * "Ändere den Drum-Loop" - Bearbeitung der verwendeten Schlagzeug-Samples;
-* "Ändern das Sample" - Bearbeiten des verwendeten Samples;
+* "Ändere das Sample" - Bearbeiten des verwendeten Samples;
 * "Ändere den Bass" - Bearbeiten der gespielten Noten;
-* "Ändern die Effekte" - Bearbeiten der verwendeten Effekte.
+* "Ändere die Effekte" - Bearbeiten der verwendeten Effekte.
 
 ## Häufig Gestellte Fragen
 
@@ -53,7 +53,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## \--- collapse \---
 
-## title: Projektmaterialien
+## title: Projektmaterial
 
 ## Ressourcen für Clubleiter
 
