@@ -32,7 +32,7 @@ Jetzt fügen wir dem Musikstück einige Bassnoten hinzu.
     
     ![Screenshot](images/dj-bass-longer-note.png)
 
-+ Du kannst auch den `amp`-Befehl nutzen, um die Lautstärke des Basses zu wählen. Eine Zahl kleiner als 1 ist leiser und eine Zahl größer als 1 ist lauter.
++ Du kannst auch den `amp`-Befehl nutzen, um die Lautstärke des Basses zu wählen. Eine Zahl kleiner als 1 ist leiser und eine Zahl größer als 1 ist lauter. Denke daran die Dezimalzahlen mit Punkt statt Komma zu schreiben.
     
     ![Screenshot](images/dj-bass-amp.png)
 
