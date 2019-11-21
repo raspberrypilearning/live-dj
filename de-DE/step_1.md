@@ -3,7 +3,7 @@
 In diesem Projekt lernst du, wie du ein Musikstück live programmieren, erweitern und verändern kannst, währen die Musik weiter läuft!
 
 <div id="audio-preview" class="pdf-hidden">
-  Drücke die Wiedergabetaste, um zu hören, wie das Musikstück klingen wird: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+  Drücke die Wiedergabetaste, um zu hören, wie das Musikstück klingen wird: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
 </div>
 
 ### Zusätzliche Information für Clubleiter
