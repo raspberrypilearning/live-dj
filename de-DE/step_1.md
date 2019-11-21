@@ -6,7 +6,7 @@ In diesem Projekt lernst du, wie du ein Musikstück live programmieren, erweiter
   Drücke die Wiedergabetaste, um zu hören, wie das Musikstück klingen wird: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
 </div>
 
-### Zusätzliche Information für Clubleiter
+### Zusätzliche Informationen für Clubleiter
 
 Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/live-dj/print).
 
@@ -16,7 +16,7 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## Einleitung:
 
-In diesem Projekt lernen Kinder, mit dem `live_loop` mehrere Musikstücke zeitgleich abzuspielen. Sie lernen auch, dass Loops bearbeitet und synchronisiert werden können, ohne die Musik stoppen und erneut starten zu müssen.
+In diesem Projekt lernen Kinder, mit dem `live_loop` mehrere Musikstücke zeitgleich abzuspielen. Sie erlernen auch, dass man Loops bearbeiten und synchronisieren kann, ohne dass man die Musik stoppen oder erneut starten muss.
 
 ## Ressourcen
 
