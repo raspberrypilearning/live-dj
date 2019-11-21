@@ -45,15 +45,15 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 * "Ändere den Bass" - Bearbeiten der gespielten Noten;
 * "Ändere die Effekte" - Bearbeiten der verwendeten Effekte.
 
-## Häufig Gestellte Fragen
+## Häufig gestellte Fragen
 
-* Die in Sonic Pi verfügbaren Samples können die Lernenden unter [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) finden. Alternativ können sie einfach `sample [space]` eingeben und aus der angezeigten Liste auswählen.
+* Die in Sonic Pi verfügbaren Samples können die Lernenden unter [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) finden. Alternativ können sie einfach `sample [space]` eingeben und ein Sample aus der angezeigten Liste auswählen.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Projektmaterial
+## title: Projektmaterialien
 
 ## Ressourcen für Clubleiter
 
