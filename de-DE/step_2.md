@@ -6,18 +6,18 @@ Lass uns anfangen, indem wir einen einfachen Drum-Loop erstellen.
     
     ![Screenshot](images/dj-drums-loop.png)
     
-    Alles dass zu einem `live_loop` hinzugefügt wird, wird wiederholt, bis "Stop" gedrückt wird.
+    Jeder Code, der zu einem `live_loop` hinzugefügt wird, wiederholt sich bis "Stop" gedrückt wird.
 
 + Füge eine grosse und kleine Trommel hinzu, die abwechselnd jeweils für einen Takt spielen.
     
     ![Screenshot](images/dj-drums.png)
 
-+ Klicke das mit "Run" beschriftete Wiedergabebutton, um deinen Drum-Loop abzuspielen.
++ Drücke auf 'Run', um deinen Drum-Loop zu hören.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
-+ Wenn dir dein Drum-Loop zu schnell oder zu langsam ist, kannst du die Geschwindigkeit, gemessen in Beats pro Minute (bpm), ändern.
++ Wenn deine Drum-Loop zu schnell/ langsam ist, kannst du die Beats pro Minute (bpm) ändern.
     
     ![Screenshot](images/dj-bpm.png)
     
