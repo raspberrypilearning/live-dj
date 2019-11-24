@@ -27,9 +27,9 @@ Jetzt legen wir eines neues, sich wiederholendes Sample über unseren Drum-Loop.
     
     ![Screenshot](images/dj-sample-log.png)
     
-    (Du kannst jetzt den Befehl zum Ausgeben der Länge des Samples jetzt wieder entfernen.)
+    (Du kannst jetzt den Befehl, dass die Länge des Samples anzeigt, wieder entfernen.)
 
-+ Um das Sample exakt mit dem Schlagzeug abzugleichen, musst du es ein wenig **verlängern**, damit es auch genau 8 Takte lang dauert.
++ Um das Sample dem Schlagzeug anzupassen, musst du es ein wenig **verlängern**, damit es auch genau 8 Takte dauert.
     
     ![Screenshot](images/dj-sample-stretch.png)
 
