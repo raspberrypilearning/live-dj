@@ -36,7 +36,7 @@ Sie können eine vollständige Version dieses Projekts finden, indem Sie auf den
 
 Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
 
-* [Problemlösung durch Kombination von Programmierstrukturen.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Verschiedene Programmierkonstrukte kombinieren um ein Problem zu lösen.](https://www.raspberrypi.org/curriculum/programming/builder)
 
 ## Herausforderungen
 
