@@ -2,7 +2,7 @@
 
 Jetzt fügen wir dem Musikstück einige Bassnoten hinzu.
 
-+ Beginne mit einem neuen `live_loop` mit dem Namen `:bass`. Auch diese neue Schleife soll mit dem `sync`-Befehl mit dem Schlagzeug abgeglichen werden.
++ Erstelle zuerst einen neuen `live_loop` mit dem Namen `:bass`. Dieser neuer Loop sollte auch durch `sync` mit dem Schlagzeug synchronisiert werden.
     
     ![Screenshot](images/dj-bass-loop.png)
 
@@ -10,10 +10,10 @@ Jetzt fügen wir dem Musikstück einige Bassnoten hinzu.
     
     ![Screenshot](images/dj-bass-note.png)
 
-+ Klicke das Wiedergabebutton (Du musst die Wiedergabe nicht erst beenden und erneut starten). Du solltest die Note alle 8 Takte hören.
++ Klicke das Wiedergabebutton (Du musst die Wiedergabe nicht erst beenden und erneut starten). Du solltest alle 8 Takte eine Note hören.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
     </div>
 + Ein **Akkord** ist eine Gruppe von gemeinsam gespielten Noten.
     
