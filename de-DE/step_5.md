@@ -8,11 +8,11 @@ Du kannst zu [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) geh
 
 ![Screenshot](images/dj-sample-choose.png)
 
-Du musst vielleicht auch die Zahlen in deinem Programm ändern, damit sie für verschiedene Samples passen. Mit dem folgenden Befehl kannst du die Länge eines Samples herausfinden:
+Du musst vielleicht auch die Zahlen in deinem Programm für verschiedene Samples ändern. Mit dem folgenden Befehl kannst du die Länge eines Samples herausfinden:
 
 `puts sample_duration(:name_des_samples)`
 
-Damit ein Sample ohne Unterbrechnung wiederholt wird, **musst du sicherstellen, dass die beide Zahlen übereinstimmen**.
+Damit ein Sample ohne Unterbrechnung wiederholt wird, **musst du sicherstellen, dass beide Zahlen übereinstimmen**.
 
 ![Screenshot](images/dj-sample-numbers.png)
 
