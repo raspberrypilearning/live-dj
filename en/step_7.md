@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Changing the bass
 Can you change the bass notes in your music. You could change:
 
