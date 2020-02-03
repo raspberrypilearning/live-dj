@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## चुनौती: ड्रम लूप को बदलना
+## Challenge: Changing the drum loop
 
-क्या आप अपने ड्रम लूप में विभिन्न नमूनों का उपयोग कर सकते हैं?
+Can you use different samples in your drum loop?
 
-यह देखने के लिए कि कौन से नमूने उपलब्ध हैं, आप [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) पर जा सकते हैं, या बस टाइप करें `sample :drum` और दिखाई देने वाली सूची में से चुनें।
+To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
 
-![स्क्रीनशॉट](images/dj-drum-challenge.png)
+![screenshot](images/dj-drum-challenge.png)
 
 \--- /challenge \---
