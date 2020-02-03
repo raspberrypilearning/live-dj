@@ -1,4 +1,4 @@
-## Inledning
+## Introduction
 
 In this project you will learn how to code a live music performance, that you can add to and edit without having to stop the music!
 
@@ -14,11 +14,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Introduktion:
+## Introduction:
 
 In this project, children will learn how to use `live_loop` to make multiple pieces of music play in time with each other. They will also learn that loops can be edited and synchronised without having to stop and restart the music.
 
-## Hjälpmedel
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
