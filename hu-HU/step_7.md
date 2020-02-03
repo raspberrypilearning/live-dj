@@ -1,4 +1,4 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Challenge: Changing the bass
 
