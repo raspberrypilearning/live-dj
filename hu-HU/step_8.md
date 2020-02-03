@@ -4,7 +4,7 @@ Finally, let's add some sound effects to your music.
 
 + Add another `live_loop` called `:effects`, which `sync`s with the drums.
     
-    ![képernyőkép](images/dj-effects-loop.png)
+    ![screenshot](images/dj-effects-loop.png)
 
 + Add this code to play the `:elec_blip2` sample every 2 beats.
     
