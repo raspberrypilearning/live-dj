@@ -1,4 +1,4 @@
-\--- kihívás \---
+\--- challenge \---
 
 ## Challenge: Changing the sample
 
@@ -16,4 +16,4 @@ To loop a sample without a gap, **make sure that both numbers match**.
 
 ![screenshot](images/dj-sample-numbers.png)
 
-\--- / challenge \---
+\--- /challenge \---
