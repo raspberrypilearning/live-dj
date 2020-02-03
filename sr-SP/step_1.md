@@ -1,4 +1,4 @@
-## Увод
+## Introduction
 
 In this project you will learn how to code a live music performance, that you can add to and edit without having to stop the music!
 
@@ -6,19 +6,19 @@ In this project you will learn how to code a live music performance, that you ca
   Press the play button below to hear how your music will sound: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Додатне информације за вође клуба
+### Additional information for club leaders
 
-Уколико је потребно да одштампате овај пројекат, молимо Вас користите [Верзију за штампање](https://projects.raspberrypi.org/en/projects/live-dj/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/live-dj/print).
 
 ## \--- collapse \---
 
 ## title: Club leader notes
 
-## Увод:
+## Introduction:
 
 In this project, children will learn how to use `live_loop` to make multiple pieces of music play in time with each other. They will also learn that loops can be edited and synchronised without having to stop and restart the music.
 
-## Ресурси
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
