@@ -10,7 +10,7 @@ Let's start by creating a simple drum loop.
 
 + Add an alternating drum and snare, that play for one beat each.
     
-    ![скриншот](images/dj-drums.png)
+    ![screenshot](images/dj-drums.png)
 
 + Press 'Run' to test your drum loop.
     
