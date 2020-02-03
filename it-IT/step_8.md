@@ -17,6 +17,6 @@ Finally, let's add some sound effects to your music.
     </div>
 + Instead of playing the same effect each time, you could instead choose randomly from a list of 2 effects.
     
-    ![schermata](images/dj-effects-sample-choose.png)
+    ![screenshot](images/dj-effects-sample-choose.png)
 
 + Click 'Run' to test your random effects (there's no need to stop and restart your music).
