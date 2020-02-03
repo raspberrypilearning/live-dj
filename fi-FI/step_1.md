@@ -1,4 +1,4 @@
-## Esittely
+## Introduction
 
 In this project you will learn how to code a live music performance, that you can add to and edit without having to stop the music!
 
@@ -6,19 +6,19 @@ In this project you will learn how to code a live music performance, that you ca
   Press the play button below to hear how your music will sound: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Lisätietoja klubin vetäjille
+### Additional information for club leaders
 
-Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberrypi.org/en/projects/live-dj/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/live-dj/print).
 
 ## \--- collapse \---
 
-## title: Opettajille
+## title: Club leader notes
 
-## Esittely:
+## Introduction:
 
 In this project, children will learn how to use `live_loop` to make multiple pieces of music play in time with each other. They will also learn that loops can be edited and synchronised without having to stop and restart the music.
 
-## Aineistot
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -34,11 +34,11 @@ You can find a completed version of this project by clicking the 'Project Materi
 * Sonic Pi 'Live Loop'
 * Playing random notes and samples
 
-Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](http://rpf.io/curriculum) seuraavista osioista:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Haasteet
+## Challenges
 
 * "Changing the drums" - editing the drum samples used;
 * "Changing the sample" - editing the sample used;
@@ -53,9 +53,9 @@ Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](ht
 
 ## \--- collapse \---
 
-## otsikko: Projektiaineistot
+## title: Project materials
 
-## Opettajien aineistot
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/live-dj.txt)
 * [Downloadable completed project mp3 file](resources/live-dj.mp3)
