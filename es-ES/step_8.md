@@ -4,11 +4,11 @@ Finally, let's add some sound effects to your music.
 
 + Add another `live_loop` called `:effects`, which `sync`s with the drums.
     
-    ![captura de pantalla](images/dj-effects-loop.png)
+    ![screenshot](images/dj-effects-loop.png)
 
 + Add this code to play the `:elec_blip2` sample every 2 beats.
     
-    ![captura de pantalla](images/dj-effects-sample.png)
+    ![screenshot](images/dj-effects-sample.png)
 
 + Click 'Run' to test your code (there's no need to stop and restart your music). You should hear a beep effect every 2 beats.
     
