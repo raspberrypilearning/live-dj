@@ -8,7 +8,7 @@ Now let's add some bass notes to your music.
 
 + Add code to play a single note every 8 beats. The note played uses the `:chipbass` synth.
     
-    ![captura de tela](images/dj-bass-note.png)
+    ![screenshot](images/dj-bass-note.png)
 
 + Press 'Run' (no need to stop and restart your music). You should hear a note play every 8 beats.
     
@@ -26,7 +26,7 @@ Now let's add some bass notes to your music.
 
 + 'Middle' C is actually `:c4`. To play lower bass notes, add a number lower than 4 after the chord name.
     
-    ![captura](images/dj-bass-lower-note.png)
+    ![screenshot](images/dj-bass-lower-note.png)
 
 + Use a `sustain` to choose how many beats the note is held for.
     
