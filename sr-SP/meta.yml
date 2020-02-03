@@ -9,7 +9,7 @@ curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: Live DJ
 description: Learn how to code a live music performance.
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/live-dj
-interests: музика
+interests: music
 technologies: ''
 site_areas: projects
 hardware: ''
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Увод
+    title: Introduction
   - 
     title: Drums
   - 
