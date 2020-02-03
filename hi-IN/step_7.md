@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## चुनौती: बास को बदलना
+## Challenge: Changing the bass
 
-क्या आप अपने संगीत में बास स्वरों को बदल सकते हैं। आप बदल सकते हैं:
+Can you change the bass notes in your music. You could change:
 
-+ बजाई गई तंत्री का नाम, उदाहरण के लिए `c2` के बजाय `f2`
-+ तंत्री का प्रकार, उदाहरण के लिए `:minor` के बजाय `:major`
-+ इस्तेमाल किया गया सिंथसाइज़र
-+ बजाया गया नमूना
++ The name of the chord played, e.g. `f2` instead of `c2`
++ The type of chord, e.g. `:major` instead of `:minor`
++ The synth used
++ The sample played
 
-![स्क्रीनशॉट](images/dj-bass-challenge.png)
+![screenshot](images/dj-bass-challenge.png)
 
 \--- /challenge \---
