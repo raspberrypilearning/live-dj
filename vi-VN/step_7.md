@@ -9,6 +9,6 @@ Can you change the bass notes in your music. You could change:
 + The synth used
 + The sample played
 
-![ảnh chụp màn hình](images/dj-bass-challenge.png)
+![screenshot](images/dj-bass-challenge.png)
 
-\--- /thử thách \---
+\--- /challenge \---
