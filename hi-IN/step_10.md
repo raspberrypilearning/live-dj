@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## चुनौती: अपने DJ कौशल दिखाना!
+## Challenge: Show off your DJ skills!
 
-अपने दोस्तों के लिए DJ बनने के लिए, आपने जो कुछ भी सीखा है उसका उपयोग करें! याद रखें कि आप अपने संगीत को रोके बिना उसमें कुछ जोड़ सकते हैं, और साथ ही स्वरों और नमूनों को भी बदल सकते हैं।
+Use everything you've learnt to be a DJ for your friends! Remember that you can add to your music, as well as change notes and samples without having to stop the music.
 
 \--- /challenge \---
