@@ -16,4 +16,4 @@ Damit ein Sample ohne Unterbrechnung wiederholt wird, **musst du sicherstellen, 
 
 ![Screenshot](images/dj-sample-numbers.png)
 
---- /challenge --
+--- /challenge ---
