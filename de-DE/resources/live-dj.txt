@@ -1,0 +1,28 @@
+use_bpm 65
+
+live_loop :schlagzeug do
+  sample :drum_heavy_kick
+  sleep 1
+  sample :sn_dolf
+  sleep 1
+end
+
+live_loop :sample do
+  sync :schlagzeug
+  sample :loop_compus, beat_stretch: 8
+  sleep 8
+end
+
+live_loop :bass do
+  sync :schlagzeug
+  use_synth :chipbass
+  sample :bd_sone, amp: 3
+  play chord(:c2, :minor).choose, sustain: 7, amp: 0.7
+  sleep 8
+end
+
+live_loop :effekte do
+  sync :schlagzeug
+  sample choose([:elec_filt_snare, :elec_mid_snare, :elec_twip, :elec_twang, :elec_pop, :elec_blup, :elec_blip2, :elec_beep, :elec_ping])
+  sleep 2
+end
