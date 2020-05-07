@@ -1,24 +1,24 @@
-## Drums
+## Τύμπανα
 
-Let's start by creating a simple drum loop.
+Ας ξεκινήσουμε δημιουργώντας έναν απλό βρόχο τύμπανου.
 
-+ Start by creating a `live_loop` called `:drums`.
++ Ξεκίνα δημιουργώντας ένα `live_loop` με όνομα `:drums`.
     
-    ![screenshot](images/dj-drums-loop.png)
+    ![στιγμιότυπο οθόνης](images/dj-drums-loop.png)
     
-    Any code added to a `live_loop` will repeat until 'Stop' is pressed.
+    Οποιονδήποτε κώδικα προσθέσεις σε ένα `live_loop` θα επαναληφθεί μέχρι να πατήσεις το «Stop».
 
-+ Add an alternating drum and snare, that play for one beat each.
++ Πρόσθεσε ένα τύμπανο και ένα ταμπούρο εναλλάξ, που να παίζουν το καθένα για ένα ρυθμό.
     
-    ![screenshot](images/dj-drums.png)
+    ![στιγμιότυπο οθόνης](images/dj-drums.png)
 
-+ Press 'Run' to test your drum loop.
++ Πάτησε «Run» για να ελέγξεις το βρόχο του τύμπανου.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
-+ If your drum loop is too fast/slow, you can change the beats per minute (bpm).
++ Εάν ο βρόχος του τύμπανού σου είναι πολύ γρήγορος/αργός, μπορείς να αλλάξεις τα χτυπήματα ανά λεπτό (bpm).
     
-    ![screenshot](images/dj-bpm.png)
+    ![στιγμιότυπο οθόνης](images/dj-bpm.png)
     
-    You'll need to stop and start your `live_loop` to speed it up or slow it down.
+    Θα πρέπει να σταματήσεις και να ξεκινήσεις το `live_loop` για να το επιταχύνεις ή να το επιβραδύνεις.
