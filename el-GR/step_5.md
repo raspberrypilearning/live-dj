@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Changing the sample
+## Πρόκληση: Αλλαγή του δείγματος
 
-Can you change the sample used?
+Μπορείς να αλλάξεις το δείγμα που χρησιμοποιήθηκε;
 
-To see what loop samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :loop` and choose from the list that appears.
+Για να δεις ποια δείγματα επανάληψης είναι διαθέσιμα, μπορείς να πας στη διεύθυνση [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) ή απλώς να πληκτρολογήσεις `sample :loop` και να επιλέξεις από τη λίστα που εμφανίζεται.
 
-![screenshot](images/dj-sample-choose.png)
+![στιγμιότυπο οθόνης](images/dj-sample-choose.png)
 
-You might also need to change the numbers in your code for different samples. You can use the following code to find out the sample of a duration:
+Ίσως χρειαστεί επίσης να αλλάξεις τους αριθμούς στον κώδικά σου για διαφορετικά δείγματα. Μπορείς να χρησιμοποιήσεις τον ακόλουθο κώδικα για να μάθεις το δείγμα της διάρκειας:
 
 `puts sample_duration(:sample_name)`
 
-To loop a sample without a gap, **make sure that both numbers match**.
+Για να επαναλάβεις ένα δείγμα χωρίς κενό, **βεβαιώσου ότι ταιριάζουν και οι δύο αριθμοί**.
 
-![screenshot](images/dj-sample-numbers.png)
+![στιγμιότυπο οθόνης](images/dj-sample-numbers.png)
 
 \--- /challenge \---
