@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Changing the effects
+## Πρόκληση: Αλλαγή των εφέ
 
-Can you add even more sound effects to your music?
+Μπορείς να προσθέσεις ακόμη περισσότερα ηχητικά εφέ στη μουσική σου;
 
-![screenshot](images/dj-effects-more.png)
+![στιγμιότυπο οθόνης](images/dj-effects-more.png)
 
 \--- /challenge \---
