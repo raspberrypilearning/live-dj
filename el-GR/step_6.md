@@ -1,47 +1,47 @@
-## Adding bass
+## Προσθήκη μπάσου
 
-Now let's add some bass notes to your music.
+Τώρα πρόσθεσε μερικές νότες μπάσου στη μουσική σου.
 
-+ Start by creating a new `live_loop` called `:bass`. This new loop should also `sync` with the drums.
++ Ξεκίνα δημιουργώντας ένα `live_loop` με όνομα `:bass`. Αυτός ο νέος βρόχος θα πρέπει επίσης να συγχρονίζεται (`sync`) με τα ντραμς.
     
-    ![screenshot](images/dj-bass-loop.png)
+    ![στιγμιότυπο οθόνης](images/dj-bass-loop.png)
 
-+ Add code to play a single note every 8 beats. The note played uses the `:chipbass` synth.
++ Πρόσθεσε κώδικα για να παίξεις μια νότα κάθε 8 χτυπήματα. Η νότα που παίζεται χρησιμοποιεί το συνθεσάιζερ `:chipbass`.
     
-    ![screenshot](images/dj-bass-note.png)
+    ![στιγμιότυπο οθόνης](images/dj-bass-note.png)
 
-+ Press 'Run' (no need to stop and restart your music). You should hear a note play every 8 beats.
++ Πάτησε «Run» (δεν χρειάζεται να σταματήσεις και να επανεκκινήσεις τη μουσική σου). Θα πρέπει να ακούς μια νότα κάθε 8 χτυπήματα.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
-+ A **chord** is a group of notes played together.
++ Μια συγχορδία (**chord**) είναι μια ομάδα από νότες που παίζονται μαζί.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
-    Instead of playing the same note every 8 beats, you can `choose` a random note from a **chord**. In this case, the chord is **C Minor**.
+    Αντί να αναπαράγεις την ίδια νότα κάθε 8 χτυπήματα, μπορείς να `επιλέξεις` μια τυχαία νότα από μια συγχορδία (**chord**). Σε αυτήν την περίπτωση, η συγχορδία είναι **C Minor**.
     
-    ![screenshot](images/dj-bass-random-note.png)
+    ![στιγμιότυπο οθόνης](images/dj-bass-random-note.png)
 
-+ 'Middle' C is actually `:c4`. To play lower bass notes, add a number lower than 4 after the chord name.
++ Η «Middle» C είναι στην πραγματικότητα η `:c4`. Για να αναπαράγεις χαμηλότερες νότες μπάσου, πρόσθεσε έναν αριθμό μικρότερο από 4 μετά το όνομα της συγχορδίας.
     
-    ![screenshot](images/dj-bass-lower-note.png)
+    ![στιγμιότυπο οθόνης](images/dj-bass-lower-note.png)
 
-+ Use a `sustain` to choose how many beats the note is held for.
++ Χρησιμοποίησε την εντολή `sustain` για να επιλέξεις για πόσα χτυπήματα διατηρείται η νότα.
     
-    ![screenshot](images/dj-bass-longer-note.png)
+    ![στιγμιότυπο οθόνης](images/dj-bass-longer-note.png)
 
-+ You can also use `amp` to choose the loudness of the bass. A number lower than 1 will be quieter, and higher than 1 will be louder.
++ Μπορείς επίσης να χρησιμοποιήσεις την εντολή `amp` για να επιλέξεις την ένταση του μπάσου. Ένας αριθμός μικρότερος από 1 θα έχει πιο χαμηλή ένταση, ενώ υψηλότερος από 1 θα έχει πιο υψηλή ένταση.
     
-    ![screenshot](images/dj-bass-amp.png)
+    ![στιγμιότυπο οθόνης](images/dj-bass-amp.png)
 
-+ You can also add a (louder) sample to play at the start of each note.
++ Μπορείς επίσης να προσθέσεις ένα (δυνατότερο) δείγμα για αναπαραγωγή στην αρχή κάθε νότας.
     
-    ![screenshot](images/dj-bass-sample.png)
+    ![στιγμιότυπο οθόνης](images/dj-bass-sample.png)
 
-+ Press 'Run' to test your code. There's no need to stop and restart your music.
++ Πάτησε «Run» για να ελέγξεις τον κώδικά σου. Δεν χρειάζεται να σταματήσεις και να επανεκκινήσεις τη μουσική σου.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
