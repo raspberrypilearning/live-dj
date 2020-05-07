@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Show off your DJ skills!
+## Πρόκληση: Δείξε τις δεξιότητές σου ως DJ!
 
-Use everything you've learnt to be a DJ for your friends! Remember that you can add to your music, as well as change notes and samples without having to stop the music.
+Χρησιμοποίησε ό,τι έχεις μάθει ώστε να είσαι DJ για τους φίλους σου! Να θυμάσαι ότι μπορείς να προσθέσεις στη μουσική σου, καθώς και να αλλάξεις νότες και δείγματα χωρίς να χρειάζεται να σταματήσεις τη μουσική.
 
 \--- /challenge \---
