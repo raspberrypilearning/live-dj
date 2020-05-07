@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Changing the drum loop
+## Πρόκληση: Αλλαγή του βρόχου τυμπάνου
 
-Can you use different samples in your drum loop?
+Μπορείς να χρησιμοποιήσεις διαφορετικά δείγματα στο βρόχο του τύμπανου;
 
-To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
+Για να δεις ποια δείγματα είναι διαθέσιμα, μπορείς να μεταβείς στην διεύθυνση [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples) ή απλώς πληκτρολόγησε `sample :drum` και επέλεξε από τη λίστα που εμφανίζεται.
 
-![screenshot](images/dj-drum-challenge.png)
+![στιγμιότυπο οθόνης](images/dj-drum-challenge.png)
 
-\--- /challenge \---
+\--- / πρόκληση \---
