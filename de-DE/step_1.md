@@ -1,6 +1,6 @@
 ## Einleitung
 
-In diesem Projekt lernst du, wie du ein Musikstück live programmieren, erweitern und verändern kannst, währen die Musik weiter läuft!
+In diesem Projekt lernst du, wie du ein Musikstück live programmieren, erweitern und verändern kannst, während die Musik weiter läuft!
 
 <div id="audio-preview" class="pdf-hidden">
   Drücke die Wiedergabetaste, um zu hören, wie das Musikstück klingen wird: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
@@ -8,7 +8,7 @@ In diesem Projekt lernst du, wie du ein Musikstück live programmieren, erweiter
 
 ### Zusätzliche Informationen für Clubleiter
 
-Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/live-dj/print).
+Falls Sie dieses Projekt ausdrucken möchtest, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/live-dj/print).
 
 ## \--- collapse \---
 
