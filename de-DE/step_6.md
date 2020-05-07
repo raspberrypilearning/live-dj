@@ -40,7 +40,7 @@ Jetzt fügen wir dem Musikstück einige Bassnoten hinzu.
     
     ![Screenshot](images/dj-bass-sample.png)
 
-+ Klicke auf das Wiedergabebutton, um die Änderungen zu hören. Du musst die Wiedergabe dazu nicht erst beenden und erneut starten.
++ Klicke auf den Wiedergabebutton, um die Änderungen zu hören. Du musst die Wiedergabe dazu nicht erst beenden und erneut starten.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
