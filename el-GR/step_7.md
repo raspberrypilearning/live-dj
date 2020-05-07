@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: Changing the bass
+## Πρόκληση: Αλλαγή μπάσου
 
-Can you change the bass notes in your music. You could change:
+Μπορείς να αλλάξεις τις νότες του μπάσου στη μουσική σου. Θα μπορούσες να αλλάξεις:
 
-+ The name of the chord played, e.g. `f2` instead of `c2`
-+ The type of chord, e.g. `:major` instead of `:minor`
-+ The synth used
-+ The sample played
++ Το όνομα της συγχορδίας που αναπαράγεται, π.χ. `f2` αντί για `c2`
++ Ο τύπος της συγχορδίας, π.χ. `:major` αντί για `:minor`
++ Το συνθεσάιζερ που χρησιμοποιήθηκε
++ Το δείγμα που αναπαράχθηκε
 
-![screenshot](images/dj-bass-challenge.png)
+![στιγμιότυπο οθόνης](images/dj-bass-challenge.png)
 
 \--- /challenge \---
