@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Changing the bass
+## Desafío: Cambia el bajo
 
-Can you change the bass notes in your music. You could change:
+¿Puedes cambiar las notas de bajo en tu música? Puedes cambiar:
 
-+ The name of the chord played, e.g. `f2` instead of `c2`
-+ The type of chord, e.g. `:major` instead of `:minor`
-+ The synth used
-+ The sample played
++ El nombre del acorde tocado, ejemplo: `f2` en vez de `c2`
++ El tipo de acorde, ejemplo: `:major` en lugar de `:minor`
++ El sintetizador usado
++ La muestra reproducida
 
 ![screenshot](images/dj-bass-challenge.png)
 
