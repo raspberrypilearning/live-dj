@@ -1,47 +1,47 @@
-## Adding bass
+## Añade un bajo
 
-Now let's add some bass notes to your music.
+Ahora vamos a añadir algunas notas de bajo a tu música.
 
-+ Start by creating a new `live_loop` called `:bass`. This new loop should also `sync` with the drums.
++ Empieza creando un nuevo `live_loop` llamado `:bass`. Este nuevo bucle también debería estar `sincronizado` con la batería.
     
     ![screenshot](images/dj-bass-loop.png)
 
-+ Add code to play a single note every 8 beats. The note played uses the `:chipbass` synth.
++ Añade código para que suene una nota cada 8 tiempos. La nota reproducida utiliza el sintetizador `:chipbass`.
     
     ![screenshot](images/dj-bass-note.png)
 
-+ Press 'Run' (no need to stop and restart your music). You should hear a note play every 8 beats.
++ Presiona 'Ejecutar' (no es necesario parar y reiniciar la música). Debería escuchar una nota cada 8 tiempos.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
     </div>
-+ A **chord** is a group of notes played together.
++ Un **acorde** es un grupo de notas tocadas juntas.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
     </div>
-    Instead of playing the same note every 8 beats, you can `choose` a random note from a **chord**. In this case, the chord is **C Minor**.
+    En vez de tocar la misma nota cada 8 tiempos, puedes `elegir` una nota aleatoria de un **acorde**. En este caso, el acorde es **C menor**.
     
     ![screenshot](images/dj-bass-random-note.png)
 
-+ 'Middle' C is actually `:c4`. To play lower bass notes, add a number lower than 4 after the chord name.
++ 'Middle' C es en realidad `: c4 ` . Para tocar notas de bajo más bajas, agrega un número menor que 4 después del nombre del acorde.
     
     ![screenshot](images/dj-bass-lower-note.png)
 
-+ Use a `sustain` to choose how many beats the note is held for.
++ Usa `sustain` para escoger por cuántos tiempos se sostendrá la nota.
     
     ![screenshot](images/dj-bass-longer-note.png)
 
-+ You can also use `amp` to choose the loudness of the bass. A number lower than 1 will be quieter, and higher than 1 will be louder.
++ También puedes usar `amp` para elegir la fuerza del bajo. Un número menor que 1 será más silencioso y más alto que 1 será más ruidoso.
     
     ![screenshot](images/dj-bass-amp.png)
 
-+ You can also add a (louder) sample to play at the start of each note.
++ También puedes añadir una muestra (más alta) para reproducirla al inicio de cada nota.
     
     ![screenshot](images/dj-bass-sample.png)
 
-+ Press 'Run' to test your code. There's no need to stop and restart your music.
++ Presiona 'Ejecutar' para probar tu código. No hay necesidad de detener y reiniciar tu música.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
     </div>
