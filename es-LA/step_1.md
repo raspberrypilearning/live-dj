@@ -1,4 +1,4 @@
-## Introduction
+## Introducción
 
 En este proyecto, aprenderás a programar un espectáculo musical en vivo. ¡Podrás añadir y editar la música sin tener que parar el concierto!
 
@@ -8,13 +8,13 @@ En este proyecto, aprenderás a programar un espectáculo musical en vivo. ¡Pod
 
 ### Información adicional para los líderes del club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/live-dj/print).
+Si necesitas imprimir este proyecto, por favor usa [la versión para imprimir](https://projects.raspberrypi.org/en/projects/live-dj/print).
 
 ## \--- collapse \---
 
 ## title: Notas para el líder del club
 
-## Introduction:
+## Introducción:
 
 En este proyecto, los niños y niñas aprenderán a usar `live_loop` para crear piezas musicales y reproducirlas de manera sincronizada. También aprenderán que los bucles pueden ser editados y sincronizados sin tener que parar y reiniciar la música.
 
@@ -57,7 +57,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## Recursos para los líderes del club
 
-* [Downloadable completed Sonic Pi project](resources/live-dj.txt)
-* [Downloadable completed project mp3 file](resources/live-dj.mp3)
+* [Proyecto completo Sonic Pi descargable](resources/live-dj.txt)
+* [Archivo mp3 descargable del proyecto completado](resources/live-dj.mp3)
 
 \--- /collapse \---
