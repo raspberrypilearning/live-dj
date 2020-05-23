@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: Changing the drum loop
+## Desafío: Cambia la secuencia de la batería
 
-Can you use different samples in your drum loop?
+¿Puedes usar diferentes muestras en tu secuencia de batería?
 
-To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
+Para ver qué muestras están disponibles, puedes ir a [jumpto.cc/sonic-pi-muestras](http://jumpto.cc/sonic-pi-samples), o simplemente escribe `sample:drum` y elige uno de la lista que aparece.
 
 ![screenshot](images/dj-drum-challenge.png)
 
