@@ -1,12 +1,12 @@
-## Adding a sample
+## Añade una muestra
 
-Let's add a looping sample over the basic drum loop.
+Agreguemos una muestra en bucle sobre la secuencia de la batería.
 
-+ To play a sample in time with your drums, create another `live_loop` called `:sample`.
++ Para tocar una muestra sincronizada con tu batería, crea otro `live_loop` llamado `:sample`.
     
     ![screenshot](images/dj-sample-loop.png)
 
-+ Add the sample `:loop_compus`, making it play every 8 beats.
++ Añade la muestra `:loop_compus`, haciendo que se reproduzca cada 8 tiempos.
     
     ![screenshot](images/dj-sample-bug.png)
 
