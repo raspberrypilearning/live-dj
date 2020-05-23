@@ -1,61 +1,61 @@
 ## Introduction
 
-In this project you will learn how to code a live music performance, that you can add to and edit without having to stop the music!
+En este proyecto, aprenderás a programar un espectáculo musical en vivo. ¡Podrás añadir y editar la música sin tener que parar el concierto!
 
 <div id="audio-preview" class="pdf-hidden">
-  Press the play button below to hear how your music will sound: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Haz clic en el botón de reproducción de abajo para escuchar cómo sonará tu música: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
 </div>
 
-### Additional information for club leaders
+### Información adicional para los líderes del club
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/live-dj/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas para el líder del club
 
 ## Introduction:
 
-In this project, children will learn how to use `live_loop` to make multiple pieces of music play in time with each other. They will also learn that loops can be edited and synchronised without having to stop and restart the music.
+En este proyecto, los niños y niñas aprenderán a usar `live_loop` para crear piezas musicales y reproducirlas de manera sincronizada. También aprenderán que los bucles pueden ser editados y sincronizados sin tener que parar y reiniciar la música.
 
-## Resources
+## Recursos
 
-The 'Project Materials' link for this project contains the following resources:
+El enlace 'Materiales del proyecto' para este proyecto contiene los siguientes recursos:
 
-##### Club leader Resources
+##### Recursos para los líderes del club
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Puedes encontrar una versión completa de este proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto, que contiene:
 
 * live-dj.txt
 * live-dj.mp3
 
-## Learning Objectives
+## Objetivos del Aprendizaje
 
 * Sonic Pi 'Live Loop'
-* Playing random notes and samples
+* Reproducir notas y muestras aleatorias
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este proyecto incluye elementos de los siguientes aspectos del [Currículo de creación digital de Raspberry Pi](http://rpf.io/curriculum):
 
-* [Combine programming constructs to solve a problem.](https://www.raspberrypi.org/curriculum/programming/builder)
+* [Combina estructuras de programación para resolver un problema.](https://www.raspberrypi.org/curriculum/programming/builder)
 
-## Challenges
+## Desafíos
 
-* "Changing the drums" - editing the drum samples used;
-* "Changing the sample" - editing the sample used;
-* "Changing the bass" - editing the notes played;
-* "Changing the effects" - editing the effects used.
+* "Modifica la batería" - edita las muestras de batería usadas;
+* "Modifica la muestra" - edita la muestra usada;
+* "Modifica el bajo" - edita las notas reproducidas;
+* "Modifica los efectos" - edita los efectos de sonido usados.
 
-## Frequently Asked Questions
+## Preguntas frecuentes
 
-* To find samples available in Sonic Pi, learners can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternatively, they can just type `sample [space]` and choose from the list that appears.
+* Para encontrar muestras disponibles en Sonic Pi, los estudiantes pueden ir a [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples). Alternativamente, pueden simplemente escribir `muestra [espacio]` y elegir de la lista que aparece.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## título: Materiales del proyecto
 
-## Club leader resources
+## Recursos para los líderes del club
 
 * [Downloadable completed Sonic Pi project](resources/live-dj.txt)
 * [Downloadable completed project mp3 file](resources/live-dj.mp3)
