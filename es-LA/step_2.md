@@ -1,24 +1,24 @@
-## Drums
+## Batería
 
-Let's start by creating a simple drum loop.
+Empecemos por crear una secuencia de batería.
 
-+ Start by creating a `live_loop` called `:drums`.
++ Empieza creando un nuevo `live_loop` llamado `:drums`.
     
     ![screenshot](images/dj-drums-loop.png)
     
-    Any code added to a `live_loop` will repeat until 'Stop' is pressed.
+    Cualquier código agregado a un ` live_loop ` se repetirá hasta que se presione 'Stop'.
 
-+ Add an alternating drum and snare, that play for one beat each.
++ Añade una nota de tambor y una de tarola que suenen de manera alternada, una por cada tiempo.
     
     ![screenshot](images/dj-drums.png)
 
-+ Press 'Run' to test your drum loop.
++ Presiona 'Ejecutar' para probar tu secuencia de batería.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
     </div>
-+ If your drum loop is too fast/slow, you can change the beats per minute (bpm).
++ Si tu secuencia de batería es demasiado rápida o lenta, puedes cambiar la cantidad de tiempos por minuto, bpm en inglés.
     
     ![screenshot](images/dj-bpm.png)
     
-    You'll need to stop and start your `live_loop` to speed it up or slow it down.
+    Deberás reiniciar tu `secuencia` para acelerarla o ralentizarla.
