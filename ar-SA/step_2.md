@@ -15,7 +15,7 @@
 + اضغط على 'تشغيل Run' لاختبار حلقة الطبل الخاصة بك.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
     </div>
 + إذا كانت حلقة الطبل سريعة جداً/بطيئة جدًا، فيمكنك تغيير النبضات في الدقيقة (bpm).
     
