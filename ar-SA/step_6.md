@@ -1,8 +1,8 @@
-## Adding bass
+## إضافة صوت عميق
 
-Now let's add some bass notes to your music.
+الآن دعونا نضيف بعض نوتات الصوت العميق إلى الموسيقى الخاصة بك.
 
-+ Start by creating a new `live_loop` called `:bass`. This new loop should also `sync` with the drums.
++ ابدأ بإنشاء `live_loop` جديد يسمى `:bass`. This new loop should also `sync` with the drums.
     
     ![screenshot](images/dj-bass-loop.png)
 
