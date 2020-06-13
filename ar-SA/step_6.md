@@ -2,45 +2,45 @@
 
 الآن دعونا نضيف بعض نوتات الصوت العميق إلى الموسيقى الخاصة بك.
 
-+ ابدأ بإنشاء `live_loop` جديد يسمى `:bass`. This new loop should also `sync` with the drums.
++ ابدأ بإنشاء `live_loop` جديد يسمى `:bass`. هذه الحلقة الجديدة يجب أن تكون متزامنة` sync ` مع الطبول.
     
-    ![screenshot](images/dj-bass-loop.png)
+    ![لقطة الشاشة](images/dj-bass-loop.png)
 
-+ Add code to play a single note every 8 beats. The note played uses the `:chipbass` synth.
++ أضف كود للعب نوتة واحدة كل 8 نبضات. تستخدم النوتة التي تم تشغيلها التجميع `:chipbass`.
     
-    ![screenshot](images/dj-bass-note.png)
+    ![لقطة الشاشة](images/dj-bass-note.png)
 
-+ Press 'Run' (no need to stop and restart your music). You should hear a note play every 8 beats.
++ اضغط على "تشغيل Run" (لا حاجة لإيقاف الموسيقى وإعادة تشغيلها). يجب أن تسمع النوتة تشتغل كل 8 نبضات.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-+ A **chord** is a group of notes played together.
++ إن **chord** هي مجموعة من النوتات يتم تشغيلها معا.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-    Instead of playing the same note every 8 beats, you can `choose` a random note from a **chord**. In this case, the chord is **C Minor**.
+    بدلاً من تشغيل نفس النوتة كل 8 ايقاعات، يمكنك `الاختيار` نوتة عشوائية من **chord**. In this case, the chord is **C Minor**.
     
-    ![screenshot](images/dj-bass-random-note.png)
+    ![لقطة الشاشة](images/dj-bass-random-note.png)
 
-+ 'Middle' C is actually `:c4`. To play lower bass notes, add a number lower than 4 after the chord name.
++ النغمة "وسط" C هو في الواقع `:c4`. لتشغيل نغمات أقل جهورا، أضف رقمًا أقل من 4 بعد اسم الوتر.
     
-    ![screenshot](images/dj-bass-lower-note.png)
+    ![لقطة الشاشة](images/dj-bass-lower-note.png)
 
-+ Use a `sustain` to choose how many beats the note is held for.
++ استخدم ` sustain ` لاختيار عدد الضربات التي تحملها النوتة.
     
-    ![screenshot](images/dj-bass-longer-note.png)
+    ![لقطة الشاشة](images/dj-bass-longer-note.png)
 
-+ You can also use `amp` to choose the loudness of the bass. A number lower than 1 will be quieter, and higher than 1 will be louder.
++ يمكنك أيضًا استخدام `amp` لاختيار صوت القاعدة. عدد أقل من 1 سيكون أكثر هدوءاً، و أعلى من 1 سيكون أعلى.
     
-    ![screenshot](images/dj-bass-amp.png)
+    ![لقطة الشاشة](images/dj-bass-amp.png)
 
-+ You can also add a (louder) sample to play at the start of each note.
++ يمكنك أيضا إضافة عينة (أعلى) للعب في بداية كل نوتة.
     
-    ![screenshot](images/dj-bass-sample.png)
+    ![لقطة الشاشة](images/dj-bass-sample.png)
 
-+ Press 'Run' to test your code. There's no need to stop and restart your music.
++ Press 'Run' to test your code. ليس هناك حاجة لإيقاف الموسيقى الخاصة بك وإعادة تشغيلها.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
