@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: Changing the bass
+## التحدي: تغيير الصوت العميق
 
-Can you change the bass notes in your music. You could change:
+يمكنك تغيير نغمات الصوت في الموسيقى الخاصة بك. يمكنك تغيير:
 
-+ The name of the chord played, e.g. `f2` instead of `c2`
-+ The type of chord, e.g. `:major` instead of `:minor`
-+ The synth used
-+ The sample played
++ اسم الشريط الذي تم تشغيله، على سبيل المثال `f2` بدلاً من `c2`
++ نوع الوتر ، مثل `:major` بدلاً من `:minor`
++ المزامنة المستخدمة
++ النغمة التي تم تشغيلها
 
-![screenshot](images/dj-bass-challenge.png)
+![لقطة شاشة](images/dj-bass-challenge.png)
 
 \--- /challenge \---
