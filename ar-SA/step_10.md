@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Show off your DJ skills!
+## التحدي: أظهر مهاراتك في تنسيق الاغاني!
 
-Use everything you've learnt to be a DJ for your friends! Remember that you can add to your music, as well as change notes and samples without having to stop the music.
+استخدم كل ما تعلمته لتكون منسق اغاني لأصدقائك! تذكر أنه يمكنك الإضافة إلى الموسيقى الخاصة بك ، وكذلك تغيير الملاحظات والعينات دون الحاجة إلى إيقاف الموسيقى.
 
 \--- /challenge \---
