@@ -13,7 +13,7 @@
 + انقر فوق تشغيل "Run" لاختبار الكود الخاص بك (ليست هناك حاجة لإيقاف الموسيقى وإعادة تشغيلها). يجب أن تسمع صوت كل دقتين.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/noises.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/noises.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
     </div>
 + بدلاً من أن تلعب نفس التأثير في كل مرة، يمكنك بدلاً من ذلك أن تختار عشوائياً من قائمة فيها مؤثرين.
     
