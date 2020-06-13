@@ -1,6 +1,6 @@
-## Adding a sample
+## إضافة عينة
 
-Let's add a looping sample over the basic drum loop.
+دعونا نضيف عينة حلقة فوق حلقة الطبل الأساسية.
 
 + To play a sample in time with your drums, create another `live_loop` called `:sample`.
     
