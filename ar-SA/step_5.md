@@ -1,19 +1,19 @@
 \--- challenge \---
 
-## Challenge: Changing the sample
+## التحدي: تغيير العينة
 
-Can you change the sample used?
+هل يمكنك تغيير العينة المستخدمة؟
 
-To see what loop samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :loop` and choose from the list that appears.
+لمعرفة عينات الحلقة المتاحة ، يمكنك الانتقال إلى [ jumpto.cc/sonic-pi-samples ](http://jumpto.cc/sonic-pi-samples) أو فقط اكتب `sample :loop ` واختر من القائمة التي تظهر.
 
-![screenshot](images/dj-sample-choose.png)
+![لقطة الشاشة](images/dj-sample-choose.png)
 
-You might also need to change the numbers in your code for different samples. You can use the following code to find out the sample of a duration:
+قد تحتاج أيضًا إلى تغيير الأرقام في التعليمات البرمجية لعينات مختلفة. يمكنك استخدام الكود التالي لمعرفة المدة الزمنية للعينة:
 
 `puts sample_duration(:sample_name)`
 
-To loop a sample without a gap, **make sure that both numbers match**.
+لتكرار عينة بدون فراغ، **تأكد من أن كلا الرقمين متطابقان**.
 
-![screenshot](images/dj-sample-numbers.png)
+![لقطة الشاشة](images/dj-sample-numbers.png)
 
 \--- /challenge \---
