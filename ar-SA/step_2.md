@@ -1,24 +1,24 @@
-## Drums
+## طبول
 
-Let's start by creating a simple drum loop.
+لنبدأ بإنشاء حلقة طبول بسيطة.
 
-+ Start by creating a `live_loop` called `:drums`.
++ ابدأ بإنشاء `live_loop` المسمى `:drums`.
     
-    ![screenshot](images/dj-drums-loop.png)
+    ![لقطة الشاشة](images/dj-drums-loop.png)
     
-    Any code added to a `live_loop` will repeat until 'Stop' is pressed.
+    سيتم تكرار أي رمز أضيف إلى `live_loop` حتى يتم الضغط على توقف "Stop".
 
-+ Add an alternating drum and snare, that play for one beat each.
++ أضف طبل و الوتر بالتناوب، الذي سيعزف لايقاع واحد لكل منهما.
     
-    ![screenshot](images/dj-drums.png)
+    ![لقطة الشاشة](images/dj-drums.png)
 
-+ Press 'Run' to test your drum loop.
++ اضغط على 'تشغيل Run' لاختبار حلقة الطبل الخاصة بك.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-+ If your drum loop is too fast/slow, you can change the beats per minute (bpm).
++ إذا كانت حلقة الطبل سريعة جداً/بطيئة جدًا، فيمكنك تغيير النبضات في الدقيقة (bpm).
     
-    ![screenshot](images/dj-bpm.png)
+    ![لقطة الشاشة](images/dj-bpm.png)
     
-    You'll need to stop and start your `live_loop` to speed it up or slow it down.
+    ستحتاج إلى إيقاف وبدء `live_loop` لتسريعه أو إبطاءه.
