@@ -13,7 +13,7 @@
 + إذا قمت باختبار العينة الخاصة بك، ستلاحظ أنها **لا تتطابق مع الطبول** على الإطلاق!
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
     </div>
 + أول شيء ستحتاج إلى القيام به هو `مزامنة` العينة الخاصة بك مع ايقاع الطبلة.
     
@@ -36,5 +36,5 @@
 + اختبر الرمز بالضغط على تشغيل "Run" مرة أخرى - ** لست بحاجة إلى إيقاف الموسيقى وإعادة تشغيلها **! يجب أن تسمع الآن أن عينتك تشتغل في الوقت ذاته مع إيقاع الطبل الخاص بك.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
     </div>
