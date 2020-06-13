@@ -1,12 +1,12 @@
-## Introduction
+## المقدمة
 
-In this project you will learn how to code a live music performance, that you can add to and edit without having to stop the music!
+في هذا المشروع سوف تتعلم كيفية برمجة عرض موسيقي مباشر، يمكنك الإضافة والتحرير دون الحاجة إلى إيقاف الموسيقى!
 
 <div id="audio-preview" class="pdf-hidden">
-  Press the play button below to hear how your music will sound: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  انقر على زر التشغيل أدناه لتسمع كيف ستبدو مقطعك الموسيقي: <audio controls preload> <source src="resources/live-dj.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم جزء<code>الصوت </code>. </audio>
 </div>
 
-### Additional information for club leaders
+### معلومات إضافية لقادة النادي
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/live-dj/print).
 
