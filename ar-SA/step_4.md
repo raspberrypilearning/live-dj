@@ -2,38 +2,38 @@
 
 دعونا نضيف عينة حلقة فوق حلقة الطبل الأساسية.
 
-+ To play a sample in time with your drums, create another `live_loop` called `:sample`.
++ لتشغيل عينة في الوقت ذاته مع الطبول، قم بإنشاء `live_loop` يسمى `:sample`.
     
-    ![screenshot](images/dj-sample-loop.png)
+    ![لقطة الشاشة](images/dj-sample-loop.png)
 
-+ Add the sample `:loop_compus`, making it play every 8 beats.
++ أضف العينة `:loop_compus`، مما يجعلها تلعب كل 8 ضربات.
     
-    ![screenshot](images/dj-sample-bug.png)
+    ![لقطة الشاشة](images/dj-sample-bug.png)
 
-+ If you test your sample, you'll notice that it **doesn't match the drums** at all!
++ إذا قمت باختبار العينة الخاصة بك، ستلاحظ أنها **لا تتطابق مع الطبول** على الإطلاق!
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-+ The first thing you'll need to do is `sync` your sample with the drum beat.
++ أول شيء ستحتاج إلى القيام به هو `مزامنة` العينة الخاصة بك مع ايقاع الطبلة.
     
-    ![screenshot](images/dj-sample-sync.png)
+    ![لقطة الشاشة](images/dj-sample-sync.png)
 
-+ This still doesn't sound right! Add code to print the duration of the sample:
++ هذا لا يزال غير صحيح! أضف الكود لطباعة مدة العينة:
     
-    ![screenshot](images/dj-sample-duration.png)
+    ![لقطة الشاشة](images/dj-sample-duration.png)
 
-+ If you scroll back through the **log**, you'll see that although the sample is repeating every 8 beats, **the sample doesn't quite last 8 beats**.
++ إذا قمت بالرجوع للخلف عبر سجل ** log ** ، سترى أنه على الرغم من أن العينة تكرر كل 8 نبضات ، ** فانها لا تستمر 8 نبضات **.
     
-    ![screenshot](images/dj-sample-log.png)
+    ![لقطة الشاشة](images/dj-sample-log.png)
     
-    (You can now remove the code to print the sample duration.)
+    (يمكنك الآن إزالة الرمز لطباعة مدة العينة.)
 
-+ To match your sample with the drums you'll need to **stretch** the sample so that it lasts exactly 8 beats as well.
++ لمطابقة عينتك مع الطبول ، ستحتاج إلى تمديد ** stretch ** العينة بحيث تستمر 8 نبضات بالضبط.
     
-    ![screenshot](images/dj-sample-stretch.png)
+    ![لقطة الشاشة](images/dj-sample-stretch.png)
 
-+ Test your code by pressing 'Run' again -- **you don't need to stop and restart the music**! You should now hear that your sample plays in time with your drum beat.
++ اختبر الرمز بالضغط على تشغيل "Run" مرة أخرى - ** لست بحاجة إلى إيقاف الموسيقى وإعادة تشغيلها **! يجب أن تسمع الآن أن عينتك تشتغل في الوقت ذاته مع إيقاع الطبل الخاص بك.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
