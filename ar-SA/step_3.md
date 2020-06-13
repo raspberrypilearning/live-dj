@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Changing the drum loop
+## التحدي: تغيير حلقة الطبل
 
-Can you use different samples in your drum loop?
+هل يمكنك استخدام عينات مختلفة في حلقة الطبل الخاصة بك؟
 
-To see what samples are available, you can go to [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples), or just type `sample :drum` and choose from the list that appears.
+لمعرفة ما هي العينات المتاحة، يمكنك الذهاب إلى [jumpto.cc/sonic-pi-samples](http://jumpto.cc/sonic-pi-samples)، أو فقط اكتب `sample :drum` وقم بالاختيار من القائمة التي تظهر.
 
-![screenshot](images/dj-drum-challenge.png)
+![لقطة الشاشة](images/dj-drum-challenge.png)
 
 \--- /challenge \---
