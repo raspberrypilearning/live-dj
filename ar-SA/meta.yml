@@ -1,0 +1,29 @@
+---
+hero_image: images/live-dj.png
+theme: blue
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: DJ بث مباشر
+description: تعلم كيفية برمجة بث مباشر لعرض موسيقي.
+original_url: https://codeclubprojects.org/en-GB/sonic-pi/live-dj
+interests: music
+technologies: ''
+site_areas: projects
+hardware: ''
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: المقدمة
+  - title: طبول
+  - title: 'التحدي: تغيير حلقة الطبل'
+  - title: إضافة عينة
+  - title: 'التحدي: تغيير العينة'
+  - title: إضافة صوت عميق
+  - title: 'التحدي: تغيير الصوت العميق'
+  - title: إضافة تأثيرات صوتية
+  - title: 'التحدي: تغيير التأثيرات'
+  - title: 'التحدي: أظهر مهاراتك في تنسيق الاغاني!'
