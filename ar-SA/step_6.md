@@ -13,12 +13,18 @@
 + اضغط على "تشغيل Run" (لا حاجة لإيقاف الموسيقى وإعادة تشغيلها). يجب أن تسمع النوتة تشتغل كل 8 نبضات.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
+    <audio controls preload> 
+      <source src="resources/bass-single.mp3" type="audio/mpeg">
+    المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. 
+    </audio>
     </div>
 + إن **chord** هي مجموعة من النوتات يتم تشغيلها معا.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
+    <audio controls preload> 
+      <source src="resources/chord.mp3" type="audio/mpeg">
+    المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. 
+    </audio>
     </div>
     بدلاً من تشغيل نفس النوتة كل 8 ايقاعات، يمكنك `الاختيار` نوتة عشوائية من **chord**. في هذه الحالة ، يكون الوتر**C Minor**.
     
@@ -43,5 +49,8 @@
 + اضغط على 'تشغيل Run' لاختبار الكود الخاص بك. ليس هناك حاجة لإيقاف الموسيقى الخاصة بك وإعادة تشغيلها.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. </audio>
+    <audio controls preload> 
+      <source src="resources/bass.mp3" type="audio/mpeg">
+    المتصفح الخاص بك لا يدعم عنصر <code>الصوت </code>. 
+    </audio>
     </div>
