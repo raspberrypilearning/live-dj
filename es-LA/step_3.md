@@ -6,6 +6,6 @@
 
 Para ver qué muestras están disponibles, puedes ir a [jumpto.cc/sonic-pi-muestras](http://jumpto.cc/sonic-pi-samples), o simplemente escribe `sample:drum` y elige uno de la lista que aparece.
 
-![screenshot](images/dj-drum-challenge.png)
+![captura de pantalla](images/dj-drum-challenge.png)
 
 \--- /challenge \---
