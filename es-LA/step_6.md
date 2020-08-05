@@ -30,15 +30,15 @@ Ahora vamos a añadir algunas notas de bajo a tu música.
 
 + Usa `sustain` para escoger por cuántos tiempos se sostendrá la nota.
     
-    ![screenshot](images/dj-bass-longer-note.png)
+    ![captura de pantalla](images/dj-bass-longer-note.png)
 
 + También puedes usar `amp` para elegir la fuerza del bajo. Un número menor que 1 será más silencioso y más alto que 1 será más ruidoso.
     
-    ![screenshot](images/dj-bass-amp.png)
+    ![captura de pantalla](images/dj-bass-amp.png)
 
 + También puedes añadir una muestra (más alta) para reproducirla al inicio de cada nota.
     
-    ![screenshot](images/dj-bass-sample.png)
+    ![captura de pantalla](images/dj-bass-sample.png)
 
 + Presiona 'Ejecutar' para probar tu código. No hay necesidad de detener y reiniciar tu música.
     
