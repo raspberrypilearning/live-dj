@@ -4,11 +4,11 @@ Ahora vamos a añadir algunas notas de bajo a tu música.
 
 + Empieza creando un nuevo `live_loop` llamado `:bass`. Este nuevo bucle también debería estar `sincronizado` con la batería.
     
-    ![screenshot](images/dj-bass-loop.png)
+    ![captura de pantalla](images/dj-bass-loop.png)
 
 + Añade código para que suene una nota cada 8 tiempos. La nota reproducida utiliza el sintetizador `:chipbass`.
     
-    ![screenshot](images/dj-bass-note.png)
+    ![captura de pantalla](images/dj-bass-note.png)
 
 + Presiona 'Ejecutar' (no es necesario parar y reiniciar la música). Debería escuchar una nota cada 8 tiempos.
     
@@ -22,11 +22,11 @@ Ahora vamos a añadir algunas notas de bajo a tu música.
     </div>
     En vez de tocar la misma nota cada 8 tiempos, puedes `elegir` una nota aleatoria de un **acorde**. En este caso, el acorde es **C menor**.
     
-    ![screenshot](images/dj-bass-random-note.png)
+    ![captura de pantalla](images/dj-bass-random-note.png)
 
 + 'Middle' C es en realidad `: c4 ` . Para tocar notas de bajo más bajas, agrega un número menor que 4 después del nombre del acorde.
     
-    ![screenshot](images/dj-bass-lower-note.png)
+    ![captura de pantalla](images/dj-bass-lower-note.png)
 
 + Usa `sustain` para escoger por cuántos tiempos se sostendrá la nota.
     
