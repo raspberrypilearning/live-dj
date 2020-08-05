@@ -9,6 +9,6 @@
 + El sintetizador usado
 + La muestra reproducida
 
-![screenshot](images/dj-bass-challenge.png)
+![captura de pantalla](images/dj-bass-challenge.png)
 
 \--- /challenge \---
