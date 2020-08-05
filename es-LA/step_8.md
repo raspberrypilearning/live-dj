@@ -4,11 +4,11 @@ Finalmente, agreguemos algunos efectos de sonido a tu música.
 
 + Añade otro `live_loop` llamado `:effects`, que esté sincronizado con los tambores utilizando `sync`.
     
-    ![screenshot](images/dj-effects-loop.png)
+    ![captura de pantalla](images/dj-effects-loop.png)
 
 + Añade este código para reproducir la muestra `:elec_blip2` cada 2 tiempos.
     
-    ![screenshot](images/dj-effects-sample.png)
+    ![captura de pantalla](images/dj-effects-sample.png)
 
 + Haz clic en 'Ejecutar' para probar tu código (no hay necesidad de parar y reiniciar tu música). Deberías escuchar un pitido cada 2 tiempos.
     
@@ -17,6 +17,6 @@ Finalmente, agreguemos algunos efectos de sonido a tu música.
     </div>
 + En lugar de reproducir el mismo efecto cada vez, puedes elegir aleatoriamente uno de una lista de 2 efectos.
     
-    ![screenshot](images/dj-effects-sample-choose.png)
+    ![captura de pantalla](images/dj-effects-sample-choose.png)
 
 + Haz clic en 'Ejecutar' para probar tus efectos (no hay necesidad de parar y reiniciar tu música).
