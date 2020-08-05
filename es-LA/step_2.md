@@ -4,13 +4,13 @@ Empecemos por crear una secuencia de batería.
 
 + Empieza creando un nuevo `live_loop` llamado `:drums`.
     
-    ![screenshot](images/dj-drums-loop.png)
+    ![captura de pantalla](images/dj-drums-loop.png)
     
     Cualquier código agregado a un ` live_loop ` se repetirá hasta que se presione 'Stop'.
 
 + Añade una nota de tambor y una de tarola que suenen de manera alternada, una por cada tiempo.
     
-    ![screenshot](images/dj-drums.png)
+    ![captura de pantalla](images/dj-drums.png)
 
 + Presiona 'Ejecutar' para probar tu secuencia de batería.
     
@@ -19,6 +19,6 @@ Empecemos por crear una secuencia de batería.
     </div>
 + Si tu secuencia de batería es demasiado rápida o lenta, puedes cambiar la cantidad de tiempos por minuto, bpm en inglés.
     
-    ![screenshot](images/dj-bpm.png)
+    ![captura de pantalla](images/dj-bpm.png)
     
     Deberás reiniciar tu `secuencia` para acelerarla o ralentizarla.
