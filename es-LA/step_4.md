@@ -4,11 +4,11 @@ Agreguemos una muestra en bucle sobre la secuencia de la batería.
 
 + Para tocar una muestra sincronizada con tu batería, crea otro `live_loop` llamado `:sample`.
     
-    ![screenshot](images/dj-sample-loop.png)
+    ![captura de pantalla](images/dj-sample-loop.png)
 
 + Añade la muestra `:loop_compus`, haciendo que se reproduzca cada 8 tiempos.
     
-    ![screenshot](images/dj-sample-bug.png)
+    ![captura de pantalla](images/dj-sample-bug.png)
 
 + Si pruebas tu muestra, ¡notarás que **no coincide en absoluto con la batería**!
     
@@ -17,21 +17,21 @@ Agreguemos una muestra en bucle sobre la secuencia de la batería.
     </div>
 + Lo primero que deberás hacer es sincronizar tu muestra con el ritmo de la batería usando `sync`.
     
-    ![screenshot](images/dj-sample-sync.png)
+    ![captura de pantalla](images/dj-sample-sync.png)
 
 + ¡Esto todavía no suena bien! Añade código para imprimir la duración de la muestra:
     
-    ![screenshot](images/dj-sample-duration.png)
+    ![captura de pantalla](images/dj-sample-duration.png)
 
 + Si revisas el **log**, verás que aunque la muestra se repite cada 8 tiempos, **la muestra no dura 8 tiempos**.
     
-    ![screenshot](images/dj-sample-log.png)
+    ![captura de pantalla](images/dj-sample-log.png)
     
     (Ahora puedes eliminar el código para imprimir la duración de la muestra.)
 
 + Para sincronizar tu muestra con la batería, tienes que **estirar** la muestra para que también dure exactamente 8 beats.
     
-    ![screenshot](images/dj-sample-stretch.png)
+    ![captura de pantalla](images/dj-sample-stretch.png)
 
 + Prueba tu código presionando 'Ejecutar' nuevamente -- **¡No tienes que detener la música y reiniciarla**! Ahora al escuchar tu muestra te darás cuenta que está sincronizada con el ritmo de la batería.
     
