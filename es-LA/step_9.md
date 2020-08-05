@@ -4,6 +4,6 @@
 
 ¿Puedes agregar aún más efectos de sonido a tu música?
 
-![screenshot](images/dj-effects-more.png)
+![captura de pantalla](images/dj-effects-more.png)
 
 \--- /challenge \---
