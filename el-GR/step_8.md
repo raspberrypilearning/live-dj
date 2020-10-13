@@ -13,7 +13,9 @@
 + Κάνε κλικ στο «Run» για να ελέγξεις τον κώδικά σου (δε χρειάζεται να σταματήσεις και να επανεκκινήσεις τη μουσική σου). Θα πρέπει να ακούς ένα ηχητικό εφέ κάθε 2 χτύπους.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/noises.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησης σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
+    <audio controls preload> 
+      <source src="resources/noises.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησης σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. 
+    </audio>
     </div>
 + Αντί να παίζεις το ίδιο εφέ κάθε φορά, θα μπορούσες να επιλέξεις τυχαία από μια λίστα με 2 εφέ.
     

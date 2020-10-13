@@ -13,12 +13,16 @@
 + Πάτησε «Run» (δεν χρειάζεται να σταματήσεις και να επανεκκινήσεις τη μουσική σου). Θα πρέπει να ακούς μια νότα κάθε 8 χτυπήματα.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass-single.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
+    <audio controls preload> 
+      <source src="resources/bass-single.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. 
+    </audio>
     </div>
 + Μια συγχορδία (**chord**) είναι μια ομάδα από νότες που παίζονται μαζί.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/chord.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
+    <audio controls preload> 
+      <source src="resources/chord.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. 
+    </audio>
     </div>
     Αντί να αναπαράγεις την ίδια νότα κάθε 8 χτυπήματα, μπορείς να `επιλέξεις` μια τυχαία νότα από μια συγχορδία (**chord**). Σε αυτήν την περίπτωση, η συγχορδία είναι **C Minor**.
     
@@ -43,5 +47,7 @@
 + Πάτησε «Run» για να ελέγξεις τον κώδικά σου. Δεν χρειάζεται να σταματήσεις και να επανεκκινήσεις τη μουσική σου.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/bass.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
+    <audio controls preload> 
+      <source src="resources/bass.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. 
+    </audio>
     </div>

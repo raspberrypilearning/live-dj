@@ -15,7 +15,9 @@
 + Πάτησε «Run» για να ελέγξεις το βρόχο του τύμπανου.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/drums.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
+    <audio controls preload> 
+      <source src="resources/drums.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. 
+    </audio>
     </div>
 + Εάν ο βρόχος του τύμπανού σου είναι πολύ γρήγορος/αργός, μπορείς να αλλάξεις τα χτυπήματα ανά λεπτό (bpm).
     

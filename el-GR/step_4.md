@@ -13,7 +13,9 @@
 + Εάν δοκιμάζεις το δείγμα σου, θα παρατηρήσεις ότι **δεν ταιριάζει καθόλου με τα τύμπανα**!
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/beat-bug.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησης σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
+    <audio controls preload> 
+      <source src="resources/beat-bug.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησης σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. 
+    </audio>
     </div>
 + Το πρώτο πράγμα που πρέπει να κάνεις είναι ο συγχρονισμός (`sync`) του δείγματός σου με τον χτύπο του τυμπάνου.
     
@@ -36,5 +38,7 @@
 + Δοκίμασε τον κώδικά σου πατώντας ξανά «Run» - **δεν χρειάζεται να σταματήσεις και να επανεκκινήσεις τη μουσική**! Τώρα πρέπει να ακούσεις ότι το δείγμα σου αναπαράγεται με το ρυθμό του ντραμς.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/beat-fixed.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
+    <audio controls preload> 
+      <source src="resources/beat-fixed.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. 
+    </audio>
     </div>
