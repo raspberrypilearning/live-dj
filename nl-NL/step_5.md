@@ -8,7 +8,7 @@ Om te zien welke loop-samples beschikbaar zijn, kun je naar [jumpto.cc/sonic-pi-
 
 ![screenshot](images/dj-sample-choose.png)
 
-Mogelijk moet je ook de getallen in je code wijzigen voor verschillende samples. Je kunt de volgende code gebruiken om de duur van een sample te achterhalen:
+Mogelijk moet je ook de getallen in je code wijzigen voor verschillende samples. You can use the following code to find out the duration of the sample:
 
 `puts sample_duration(:sample_naam)`
 
