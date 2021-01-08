@@ -8,7 +8,7 @@
 
 ![لقطة الشاشة](images/dj-sample-choose.png)
 
-قد تحتاج أيضًا إلى تغيير الأرقام في التعليمات البرمجية لعينات مختلفة. يمكنك استخدام الكود التالي لمعرفة المدة الزمنية للعينة:
+قد تحتاج أيضًا إلى تغيير الأرقام في التعليمات البرمجية لعينات مختلفة. You can use the following code to find out the duration of the sample:
 
 `puts sample_duration(:sample_name)`
 
