@@ -7,7 +7,7 @@ To see what loop samples are available, you can go to <a href="http://jumpto.cc/
 
 ![screenshot](images/dj-sample-choose.png)
 
-You might also need to change the numbers in your code for different samples. You can use the following code to find out the sample of a duration:
+You might also need to change the numbers in your code for different samples. You can use the following code to find out the duration of the sample:
 
 `puts sample_duration(:sample_name)`
 
