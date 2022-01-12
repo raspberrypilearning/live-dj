@@ -17,13 +17,15 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Batería
-  - title: 'Desafío: Cambia la secuencia de la batería'
-  - title: Añade una muestra
-  - title: 'Desafío: Cambia la muestra'
-  - title: Añade un bajo
-  - title: 'Desafío: Cambia el bajo'
-  - title: Añade efectos de sonido
-  - title: 'Desafío: Cambia los efectos de sonido'
-  - title: 'Desafío: ¡Demuestra tus habilidades de DJ!'
+- title: Introducción
+  completion: engaged
+- title: Batería
+- title: 'Desafío: Cambia la secuencia de la batería'
+- title: Añade una muestra
+- title: 'Desafío: Cambia la muestra'
+- title: Añade un bajo
+- title: 'Desafío: Cambia el bajo'
+- title: Añade efectos de sonido
+- title: 'Desafío: Cambia los efectos de sonido'
+  completion: internal
+- title: 'Desafío: ¡Demuestra tus habilidades de DJ!'

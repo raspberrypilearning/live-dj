@@ -16,8 +16,9 @@ hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Drums
 - title: 'Challenge: Changing the drum loop'
 - title: Adding a sample
@@ -26,4 +27,5 @@ steps:
 - title: 'Challenge: Changing the bass'
 - title: Adding sound effects
 - title: 'Challenge: Changing the effects'
+  completion: internal
 - title: 'Challenge: Show off your DJ skills!'
