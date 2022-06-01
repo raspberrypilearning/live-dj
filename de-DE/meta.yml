@@ -17,13 +17,17 @@ software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Einleitung
-  - title: Schlagzeug
-  - title: 'Herausforderung: Ändere den Drum-Loop'
-  - title: Ein Sample hinzufügen
-  - title: 'Herausforderung: Ändere das Sample'
-  - title: Bass hinzufügen
-  - title: 'Herausforderung: Ändere den Bass'
-  - title: Soundeffekte hinzufügen
-  - title: 'Herausforderung: Ändere die Effekte'
-  - title: 'Herausforderung: Zeige deine DJ-Fähigkeiten!'
+- title: Einleitung
+- title: Schlagzeug
+- title: 'Herausforderung: Ändere den Drum-Loop'
+- title: Ein Sample hinzufügen
+  completion:
+  - engaged
+- title: 'Herausforderung: Ändere das Sample'
+- title: Bass hinzufügen
+- title: 'Herausforderung: Ändere den Bass'
+- title: Soundeffekte hinzufügen
+  completion:
+  - internal
+- title: 'Herausforderung: Ändere die Effekte'
+- title: 'Herausforderung: Zeige deine DJ-Fähigkeiten!'
