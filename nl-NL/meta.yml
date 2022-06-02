@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017/01/01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Drums
 - title: 'Uitdaging: de drum loop wijzigen'
 - title: Een sample toevoegen
+  completion:
+  - engaged
 - title: 'Uitdaging: de sample veranderen'
 - title: Bas toevoegen
 - title: 'Uitdaging: de bas veranderen'
 - title: Geluidseffecten toevoegen
+  completion:
+  - internal
 - title: 'Uitdaging: de effecten veranderen'
-  completion: internal
 - title: 'Uitdaging: Pronk met je DJ-vaardigheden!'

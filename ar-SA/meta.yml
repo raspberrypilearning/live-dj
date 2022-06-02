@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: طبول
 - title: 'التحدي: تغيير حلقة الطبل'
 - title: إضافة عينة
+  completion:
+  - engaged
 - title: 'التحدي: تغيير العينة'
 - title: إضافة صوت عميق
 - title: 'التحدي: تغيير الصوت العميق'
 - title: إضافة تأثيرات صوتية
+  completion:
+  - internal
 - title: 'التحدي: تغيير التأثيرات'
-  completion: internal
 - title: 'التحدي: أظهر مهاراتك في تنسيق الاغاني!'

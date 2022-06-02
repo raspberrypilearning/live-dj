@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Τύμπανα
 - title: 'Πρόκληση: Αλλαγή του βρόχου τύμπανου'
 - title: Προσθήκη δείγματος
+  completion:
+  - engaged
 - title: 'Πρόκληση: Αλλαγή του δείγματος'
 - title: Προσθήκη μπάσου
 - title: 'Πρόκληση: Αλλαγή μπάσου'
 - title: Προσθήκη ηχητικών εφέ
+  completion:
+  - internal
 - title: 'Πρόκληση: Αλλαγή των εφέ'
-  completion: internal
 - title: 'Πρόκληση: Δείξε τις δεξιότητές σου ως DJ!'
